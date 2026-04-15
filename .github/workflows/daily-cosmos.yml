@@ -1,0 +1,56 @@
+name: Daily Cosmos Update
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update_log.py
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+        run: python update_log.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "cosmos-bot@users.noreply.github.com"
+          git config --local user.name "cosmos-bot"
+          
+          git add README.md log/
+          
+          if [ -f .today_title ]; then
+            TODAY_TITLE=$(cat .today_title)
+            DATE=$(date -u +"%Y-%m-%d")
+            rm .today_title
+          else
+            TODAY_TITLE="Unknown Title"
+            DATE=$(date -u +"%Y-%m-%d")
+          fi
+          
+          git commit -m "🌌 ${DATE}: ${TODAY_TITLE}" || echo "Nothing to commit"
+          git push origin main || echo "Nothing to push"
+
+      - name: Print Summary
+        run: |
+          echo "### Cosmos Run Successful 🌌" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date:** ${{ env.APOD_DATE }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Title:** ${{ env.APOD_TITLE }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Media Type:** ${{ env.APOD_MEDIA_TYPE }}" >> $GITHUB_STEP_SUMMARY
+          echo ""
+          echo "Title: ${{ env.APOD_TITLE }} | Date: ${{ env.APOD_DATE }} | Media Type: ${{ env.APOD_MEDIA_TYPE }}"

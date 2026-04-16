@@ -1,5 +1,6 @@
 import os
 import sys
+import time
 import requests
 import textwrap
 from datetime import datetime
@@ -11,13 +12,21 @@ def main():
 
     url = f"https://api.nasa.gov/planetary/apod?api_key={api_key}&thumbs=true"
     
-    try:
-        response = requests.get(url)
-        response.raise_for_status()
-        data = response.json()
-    except Exception as e:
-        print(f"Error fetching data from NASA API: {e}")
-        sys.exit(1)
+    max_retries = 3
+    data = None
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, timeout=15)
+            response.raise_for_status()
+            data = response.json()
+            break  # Success
+        except requests.exceptions.RequestException as e:
+            if attempt < max_retries - 1:
+                print(f"API attempt {attempt + 1} failed ({e}). Retrying in 5 seconds...")
+                time.sleep(5)
+            else:
+                print(f"Error fetching data from NASA API after {max_retries} attempts: {e}")
+                sys.exit(1)
         
     date_str = data.get("date", datetime.utcnow().strftime("%Y-%m-%d"))
     title = data.get("title", "No Title")

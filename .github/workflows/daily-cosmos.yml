@@ -32,8 +32,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --local user.email "cosmos-bot@users.noreply.github.com"
-          git config --local user.name "cosmos-bot"
+          git config --local user.email "utkarshmehrotra.live@gmail.com"
+          git config --local user.name "Utkarsh Mehrotra"
           
           git add README.md log/
           

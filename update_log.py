@@ -99,7 +99,9 @@ def main():
     readme_path = "README.md"
     short_exp = explanation[:280] + "..." if len(explanation) > 280 else explanation
     
+    heartbeat = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
     readme_block = f"""<!-- COSMOS-START -->
+<!-- HEARTBEAT: {heartbeat} -->
 ## 🔭 Today's Sky — {date_str}
 ### {title}
 

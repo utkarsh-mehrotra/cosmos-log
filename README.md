@@ -5,6 +5,15 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
+<!-- HEARTBEAT: 2026-04-18 18:02:07 UTC -->
+## 🔭 Today's Sky — 2026-04-18
+### PanSTARRS and Planets
+
+![PanSTARRS and Planets](https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg)
+
+*Near the eastern horizon before sunrise, Comet C/2025 R3 PanSTARRS is getting brighter. Readily visible in binoculars and small telescopes, the comet may be just on the verge of naked-eye visibility from dark sky sites. Though it was not quite apparent to the eye, PanSTARRS is st...*
+
+📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->
 
 ## How it works

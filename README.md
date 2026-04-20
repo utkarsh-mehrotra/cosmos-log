@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-18 18:05:00 UTC -->
-## 🔭 Today's Sky — 2026-04-18
-### PanSTARRS and Planets
+<!-- HEARTBEAT: 2026-04-19 07:26:17 UTC -->
+## 🔭 Today's Sky — 2026-04-19
+### Eye on the Milky Way
 
-![PanSTARRS and Planets](https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg)
+![Eye on the Milky Way](https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg)
 
-*Near the eastern horizon before sunrise, Comet C/2025 R3 PanSTARRS is getting brighter. Readily visible in binoculars and small telescopes, the comet may be just on the verge of naked-eye visibility from dark sky sites. Though it was not quite apparent to the eye, PanSTARRS is st...*
+*Have you ever had stars in your eyes? It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars. The featured 27-frame mosaic was taken in 2019 from Ojas de Salar in the Atacama Desert of Chile.  The eye is actually a small lagoon captured...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

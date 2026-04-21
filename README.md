@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-20 08:15:25 UTC -->
-## 🔭 Today's Sky — 2026-04-20
-### Comet R3 PanSTARRS over a Himalayan Valley
+<!-- HEARTBEAT: 2026-04-21 07:59:19 UTC -->
+## 🔭 Today's Sky — 2026-04-21
+### Three Sky Arches over Snowy Alps
 
-![Comet R3 PanSTARRS over a Himalayan Valley](https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg)
+![Three Sky Arches over Snowy Alps](https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg)
 
-*The best way to see comet R3 PanSTARRS’s long tail is with a camera. This week, the recently brightened comet appears in northern skies to the east just before dawn, but is only barely visible to the unaided eye. The many-degree ion tail captured on long duration camera exposures...*
+*Why are there three arches across the sky instead of two? Last month, after being dropped off by a helicopter at a high mountain peak in the Alps near the Swiss Italian border, an adventurous astrophotographer expected two arches of our Milky Way galaxy to be visible during the n...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

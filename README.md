@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-19 07:26:17 UTC -->
-## 🔭 Today's Sky — 2026-04-19
-### Eye on the Milky Way
+<!-- HEARTBEAT: 2026-04-20 08:15:25 UTC -->
+## 🔭 Today's Sky — 2026-04-20
+### Comet R3 PanSTARRS over a Himalayan Valley
 
-![Eye on the Milky Way](https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg)
+![Comet R3 PanSTARRS over a Himalayan Valley](https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg)
 
-*Have you ever had stars in your eyes? It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars. The featured 27-frame mosaic was taken in 2019 from Ojas de Salar in the Atacama Desert of Chile.  The eye is actually a small lagoon captured...*
+*The best way to see comet R3 PanSTARRS’s long tail is with a camera. This week, the recently brightened comet appears in northern skies to the east just before dawn, but is only barely visible to the unaided eye. The many-degree ion tail captured on long duration camera exposures...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

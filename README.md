@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-22 07:56:26 UTC -->
-## 🔭 Today's Sky — 2026-04-22
-### Earthset with an iPhone
+<!-- HEARTBEAT: 2026-04-23 08:02:33 UTC -->
+## 🔭 Today's Sky — 2026-04-23
+### Large Scale Structure of the Universe
 
-![Earthset with an iPhone](https://img.youtube.com/vi/MT8tg5b3b8E/0.jpg)
+![Large Scale Structure of the Universe](https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg)
 
-*What does it mean for the Earth to set? Artemis II Commander Reid Wiseman gave us another spectacular view of Earth from their historic flyby of the Moon. Commander Wiseman's video, taken with an iPhone at 8x zoom, shows our entire planet gradually blocked from view by the Moon. ...*
+*This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) at Kitt Peak National Observatory, Arizona, has finished its five-year survey. It observed more than 47 million galaxies and quasars and created a 3D map centered on the Earth. Today's featured image s...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-23 08:02:33 UTC -->
-## 🔭 Today's Sky — 2026-04-23
-### Large Scale Structure of the Universe
+<!-- HEARTBEAT: 2026-04-24 08:10:33 UTC -->
+## 🔭 Today's Sky — 2026-04-24
+### Young Moon and Sister Stars
 
-![Large Scale Structure of the Universe](https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg)
+![Young Moon and Sister Stars](https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg)
 
-*This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) at Kitt Peak National Observatory, Arizona, has finished its five-year survey. It observed more than 47 million galaxies and quasars and created a 3D map centered on the Earth. Today's featured image s...*
+*Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial scene from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

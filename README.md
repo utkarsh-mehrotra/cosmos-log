@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-18 18:02:07 UTC -->
-## 🔭 Today's Sky — 2026-04-18
-### PanSTARRS and Planets
+<!-- HEARTBEAT: 2026-04-26 16:31:20 UTC -->
+## 🔭 Today's Sky — 2026-04-26
+### Mystic Mountain Monster being Destroyed
 
-![PanSTARRS and Planets](https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg)
+![Mystic Mountain Monster being Destroyed](./assets/2026-04-26.jpg)
 
-*Near the eastern horizon before sunrise, Comet C/2025 R3 PanSTARRS is getting brighter. Readily visible in binoculars and small telescopes, the comet may be just on the verge of naked-eye visibility from dark sky sites. Though it was not quite apparent to the eye, PanSTARRS is st...*
+*Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bur...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

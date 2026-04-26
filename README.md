@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-25 07:23:39 UTC -->
-## 🔭 Today's Sky — 2026-04-25
-### The Persistence of Sunlight
+<!-- HEARTBEAT: 2026-04-26 07:45:03 UTC -->
+## 🔭 Today's Sky — 2026-04-26
+### Mystic Mountain Monster being Destroyed
 
-![The Persistence of Sunlight](https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg)
+![Mystic Mountain Monster being Destroyed](https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg)
 
-*This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shif...*
+*Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bur...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

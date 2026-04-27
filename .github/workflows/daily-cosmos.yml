@@ -37,7 +37,7 @@ jobs:
           git config --local user.email "utkarshmehrotra.live@gmail.com"
           git config --local user.name "Utkarsh Mehrotra"
           
-          git add README.md log/
+          git add README.md log/ assets/ metadata/
           
           if [ -f .today_title ]; then
             TODAY_TITLE=$(cat .today_title)

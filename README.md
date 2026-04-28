@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-27 08:32:03 UTC -->
-## 🔭 Today's Sky — 2026-04-27
-### Comet R3 PanSTARRS Behind Satellite Trails
+<!-- HEARTBEAT: 2026-04-28 08:30:48 UTC -->
+## 🔭 Today's Sky — 2026-04-28
+### CG 30: Cometary Globules
 
-![Comet R3 PanSTARRS Behind Satellite Trails](./assets/2026-04-27.jpg)
+![CG 30: Cometary Globules](./assets/2026-04-28.jpg)
 
-*Can you find the comet? Somewhere through this web of satellite trails is Comet C/2025 R3 (PanSTARRS), a bright visitor passing through the inner Solar System. Now, the orbiting satellites themselves only appear as streaks because of the long camera exposure, over 10 minutes in t...*
+*They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Puppis and Vela. Composed of interstellar gas and  dust, the grouping of light-year size...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-26 16:31:20 UTC -->
-## 🔭 Today's Sky — 2026-04-26
-### Mystic Mountain Monster being Destroyed
+<!-- HEARTBEAT: 2026-04-27 08:32:03 UTC -->
+## 🔭 Today's Sky — 2026-04-27
+### Comet R3 PanSTARRS Behind Satellite Trails
 
-![Mystic Mountain Monster being Destroyed](./assets/2026-04-26.jpg)
+![Comet R3 PanSTARRS Behind Satellite Trails](./assets/2026-04-27.jpg)
 
-*Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bur...*
+*Can you find the comet? Somewhere through this web of satellite trails is Comet C/2025 R3 (PanSTARRS), a bright visitor passing through the inner Solar System. Now, the orbiting satellites themselves only appear as streaks because of the long camera exposure, over 10 minutes in t...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

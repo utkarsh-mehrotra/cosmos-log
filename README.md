@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-24 08:10:33 UTC -->
-## 🔭 Today's Sky — 2026-04-24
-### Young Moon and Sister Stars
+<!-- HEARTBEAT: 2026-04-25 07:23:39 UTC -->
+## 🔭 Today's Sky — 2026-04-25
+### The Persistence of Sunlight
 
-![Young Moon and Sister Stars](https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg)
+![The Persistence of Sunlight](https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg)
 
-*Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial scene from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On...*
+*This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shif...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

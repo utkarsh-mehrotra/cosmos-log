@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-28 08:30:48 UTC -->
-## 🔭 Today's Sky — 2026-04-28
-### CG 30: Cometary Globules
+<!-- HEARTBEAT: 2026-04-29 08:24:35 UTC -->
+## 🔭 Today's Sky — 2026-04-29
+### The Moon, Venus, and the Pleiades
 
-![CG 30: Cometary Globules](./assets/2026-04-28.jpg)
+![The Moon, Venus, and the Pleiades](./assets/2026-04-29.jpg)
 
-*They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Puppis and Vela. Composed of interstellar gas and  dust, the grouping of light-year size...*
+*No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit" each other once ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-29 08:24:35 UTC -->
-## 🔭 Today's Sky — 2026-04-29
-### The Moon, Venus, and the Pleiades
+<!-- HEARTBEAT: 2026-04-30 08:27:20 UTC -->
+## 🔭 Today's Sky — 2026-04-30
+### Waves on Titan
 
-![The Moon, Venus, and the Pleiades](./assets/2026-04-29.jpg)
 
-*No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit" each other once ...*
+
+*Have you ever thought about surfing on an alien world? We can now expand the search for the perfect wave from Earth to the rest of the Solar System, and beyond. Scientists have developed a new model for simulating waves on other planets. Titan is one of the 274 confirmed moons of...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

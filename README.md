@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-04-30 08:27:20 UTC -->
-## 🔭 Today's Sky — 2026-04-30
-### Waves on Titan
+<!-- HEARTBEAT: 2026-05-01 08:18:01 UTC -->
+## 🔭 Today's Sky — 2026-05-01
+### Markarian's Chain
 
+![Markarian's Chain](./assets/2026-05-01.png)
 
-
-*Have you ever thought about surfing on an alien world? We can now expand the search for the perfect wave from Earth to the rest of the Solar System, and beyond. Scientists have developed a new model for simulating waves on other planets. Titan is one of the 274 confirmed moons of...*
+*Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and t...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

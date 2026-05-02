@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-01 08:18:01 UTC -->
-## 🔭 Today's Sky — 2026-05-01
-### Markarian's Chain
+<!-- HEARTBEAT: 2026-05-02 07:49:46 UTC -->
+## 🔭 Today's Sky — 2026-05-02
+### Seeing Titan
 
-![Markarian's Chain](./assets/2026-05-01.png)
+![Seeing Titan](./assets/2026-05-02.jpg)
 
-*Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and t...*
+*Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying ey...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-02 07:49:46 UTC -->
-## 🔭 Today's Sky — 2026-05-02
-### Seeing Titan
+<!-- HEARTBEAT: 2026-05-03 08:05:33 UTC -->
+## 🔭 Today's Sky — 2026-05-03
+### Trifid Pillars and Jets
 
-![Seeing Titan](./assets/2026-05-02.jpg)
+![Trifid Pillars and Jets](./assets/2026-05-03.jpg)
 
-*Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying ey...*
+*Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pilla...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

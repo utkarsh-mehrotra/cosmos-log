@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-03 08:05:33 UTC -->
-## 🔭 Today's Sky — 2026-05-03
-### Trifid Pillars and Jets
+<!-- HEARTBEAT: 2026-05-04 08:34:45 UTC -->
+## 🔭 Today's Sky — 2026-05-04
+### Superplumes Inside Earth
 
-![Trifid Pillars and Jets](./assets/2026-05-03.jpg)
 
-*Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pilla...*
+
+*Why are there huge, unusual masses inside the Earth? No one is sure.  By noting how earthquakes rumble through our planet's interior, humanity has discovered two deep structures that appear to have unusual temperatures and/or chemical compositions. One hypothesis holds that the s...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

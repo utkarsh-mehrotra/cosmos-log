@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-04 08:34:45 UTC -->
-## 🔭 Today's Sky — 2026-05-04
-### Superplumes Inside Earth
+<!-- HEARTBEAT: 2026-05-05 08:16:28 UTC -->
+## 🔭 Today's Sky — 2026-05-05
+### Orion over Mount Teide
 
+![Orion over Mount Teide](./assets/2026-05-05.jpg)
 
-
-*Why are there huge, unusual masses inside the Earth? No one is sure.  By noting how earthquakes rumble through our planet's interior, humanity has discovered two deep structures that appear to have unusual temperatures and/or chemical compositions. One hypothesis holds that the s...*
+*Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

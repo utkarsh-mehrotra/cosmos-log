@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-05 08:16:28 UTC -->
-## 🔭 Today's Sky — 2026-05-05
-### Orion over Mount Teide
+<!-- HEARTBEAT: 2026-05-07 08:39:13 UTC -->
+## 🔭 Today's Sky — 2026-05-07
+### Supernova in a Sideways Spiral
 
-![Orion over Mount Teide](./assets/2026-05-05.jpg)
 
-*Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For ...*
+
+*A long time ago, in a distant galaxy, a massive star was destroyed in a supernova explosion. The light of this event travelled for tens of millions of years and reached Earth last week as Supernova 2026kid. The featured video shows a time-lapse over three nights of the host galax...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

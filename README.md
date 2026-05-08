@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-07 08:39:13 UTC -->
-## 🔭 Today's Sky — 2026-05-07
-### Supernova in a Sideways Spiral
+<!-- HEARTBEAT: 2026-05-08 07:46:39 UTC -->
+## 🔭 Today's Sky — 2026-05-08
+### Comet R3 PanSTARRS Before Rigel
 
+![Comet R3 PanSTARRS Before Rigel](./assets/2026-05-08.jpg)
 
-
-*A long time ago, in a distant galaxy, a massive star was destroyed in a supernova explosion. The light of this event travelled for tens of millions of years and reached Earth last week as Supernova 2026kid. The featured video shows a time-lapse over three nights of the host galax...*
+*Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

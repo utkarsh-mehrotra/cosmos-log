@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-10 08:12:04 UTC -->
-## 🔭 Today's Sky — 2026-05-10
-### Comet R3 PanSTARRS and Orion
+<!-- HEARTBEAT: 2026-05-11 09:47:17 UTC -->
+## 🔭 Today's Sky — 2026-05-11
+### Moon Setting Behind Teide Volcano
 
-![Comet R3 PanSTARRS and Orion](./assets/2026-05-10.jpg)
+![Moon Setting Behind Teide Volcano](./assets/2026-05-11.jpg)
 
-*Orion never had a sword like this. As Comet C/2025 R3 (PanSTARRS) heads out of the inner Solar System, it is putting on quite a show for long exposure cameras.  Currently seen toward the constellation of Orion the Hunter, the distant Orion Nebula is visible on the upper right. Co...*
+*These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear beh...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

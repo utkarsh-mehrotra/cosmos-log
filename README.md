@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-09 08:00:51 UTC -->
-## 🔭 Today's Sky — 2026-05-09
-### Messier Craters in Stereo
+<!-- HEARTBEAT: 2026-05-10 08:12:04 UTC -->
+## 🔭 Today's Sky — 2026-05-10
+### Comet R3 PanSTARRS and Orion
 
-![Messier Craters in Stereo](./assets/2026-05-09.jpg)
+![Comet R3 PanSTARRS and Orion](./assets/2026-05-10.jpg)
 
-*Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fe...*
+*Orion never had a sword like this. As Comet C/2025 R3 (PanSTARRS) heads out of the inner Solar System, it is putting on quite a show for long exposure cameras.  Currently seen toward the constellation of Orion the Hunter, the distant Orion Nebula is visible on the upper right. Co...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

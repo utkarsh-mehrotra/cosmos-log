@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-11 09:47:17 UTC -->
-## 🔭 Today's Sky — 2026-05-11
-### Moon Setting Behind Teide Volcano
+<!-- HEARTBEAT: 2026-05-12 08:45:17 UTC -->
+## 🔭 Today's Sky — 2026-05-12
+### The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
 
-![Moon Setting Behind Teide Volcano](./assets/2026-05-11.jpg)
+![The Conjunction of Comet R3 PanSTARRS and the Orion Nebula](./assets/2026-05-12.jpg)
 
-*These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear beh...*
+*Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s brig...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

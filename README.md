@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-12 08:45:17 UTC -->
-## 🔭 Today's Sky — 2026-05-12
-### The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
+<!-- HEARTBEAT: 2026-05-13 08:49:30 UTC -->
+## 🔭 Today's Sky — 2026-05-13
+### NGC 188: Old Cluster in the New General Catalog
 
-![The Conjunction of Comet R3 PanSTARRS and the Orion Nebula](./assets/2026-05-12.jpg)
+![NGC 188: Old Cluster in the New General Catalog](./assets/2026-05-13.jpg)
 
-*Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s brig...*
+*The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astro...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

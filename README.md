@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-14 08:42:44 UTC -->
-## 🔭 Today's Sky — 2026-05-13
-### NGC 188: Old Cluster in the New General Catalog
+<!-- HEARTBEAT: 2026-05-15 08:53:20 UTC -->
+## 🔭 Today's Sky — 2026-05-15
+### R3 PanSTARRS: An Orion Comet
 
-![NGC 188: Old Cluster in the New General Catalog](./assets/2026-05-13.jpg)
+![R3 PanSTARRS: An Orion Comet](./assets/2026-05-15.jpg)
 
-*The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astro...*
+*Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ve...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

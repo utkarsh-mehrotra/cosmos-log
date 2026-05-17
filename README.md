@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-16 08:08:42 UTC -->
-## 🔭 Today's Sky — 2026-05-16
-### Aurora Slathers Up the Sky
+<!-- HEARTBEAT: 2026-05-17 08:25:26 UTC -->
+## 🔭 Today's Sky — 2026-05-17
+### NGC 1300: Barred Spiral Galaxy
 
-![Aurora Slathers Up the Sky](./assets/2026-05-16.jpg)
+![NGC 1300: Barred Spiral Galaxy](./assets/2026-05-17.jpg)
 
-*Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae h...*
+*Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 mill...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

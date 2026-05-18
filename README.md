@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-17 08:25:26 UTC -->
-## 🔭 Today's Sky — 2026-05-17
-### NGC 1300: Barred Spiral Galaxy
+<!-- HEARTBEAT: 2026-05-18 10:12:25 UTC -->
+## 🔭 Today's Sky — 2026-05-18
+### Unraveling NGC 3169
 
-![NGC 1300: Barred Spiral Galaxy](./assets/2026-05-17.jpg)
+![Unraveling NGC 3169](./assets/2026-05-18.jpg)
 
-*Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 mill...*
+*Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighborin...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

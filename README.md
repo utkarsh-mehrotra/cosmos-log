@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-19 09:53:00 UTC -->
-## 🔭 Today's Sky — 2026-05-19
-### NGC 2170: The Angel Nebula
+<!-- HEARTBEAT: 2026-05-20 09:40:51 UTC -->
+## 🔭 Today's Sky — 2026-05-20
+### The Dark Wolf Nebula
 
-![NGC 2170: The Angel Nebula](./assets/2026-05-19.jpg)
+![The Dark Wolf Nebula](./assets/2026-05-20.jpg)
 
-*Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebu...*
+*A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist–Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

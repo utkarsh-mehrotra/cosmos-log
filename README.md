@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-18 10:12:25 UTC -->
-## 🔭 Today's Sky — 2026-05-18
-### Unraveling NGC 3169
+<!-- HEARTBEAT: 2026-05-19 09:53:00 UTC -->
+## 🔭 Today's Sky — 2026-05-19
+### NGC 2170: The Angel Nebula
 
-![Unraveling NGC 3169](./assets/2026-05-18.jpg)
+![NGC 2170: The Angel Nebula](./assets/2026-05-19.jpg)
 
-*Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighborin...*
+*Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebu...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

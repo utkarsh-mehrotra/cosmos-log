@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-21 09:49:16 UTC -->
-## 🔭 Today's Sky — 2026-05-21
-### A Collision of Galaxy Clusters
+<!-- HEARTBEAT: 2026-05-22 09:34:03 UTC -->
+## 🔭 Today's Sky — 2026-05-22
+### The Nebulous Realm of WR 134
 
-![A Collision of Galaxy Clusters](./assets/2026-05-21.jpg)
+![The Nebulous Realm of WR 134](./assets/2026-05-22.jpg)
 
-*This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are t...*
+*This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydr...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

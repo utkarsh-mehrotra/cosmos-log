@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-22 09:34:03 UTC -->
-## 🔭 Today's Sky — 2026-05-22
-### The Nebulous Realm of WR 134
+<!-- HEARTBEAT: 2026-05-23 08:23:44 UTC -->
+## 🔭 Today's Sky — 2026-05-23
+### Messier 2
 
-![The Nebulous Realm of WR 134](./assets/2026-05-22.jpg)
+![Messier 2](./assets/2026-05-23.jpg)
 
-*This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydr...*
+*After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

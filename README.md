@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-20 09:40:51 UTC -->
-## 🔭 Today's Sky — 2026-05-20
-### The Dark Wolf Nebula
+<!-- HEARTBEAT: 2026-05-21 09:49:16 UTC -->
+## 🔭 Today's Sky — 2026-05-21
+### A Collision of Galaxy Clusters
 
-![The Dark Wolf Nebula](./assets/2026-05-20.jpg)
+![A Collision of Galaxy Clusters](./assets/2026-05-21.jpg)
 
-*A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist–Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the...*
+*This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are t...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

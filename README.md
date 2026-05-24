@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-23 08:23:44 UTC -->
-## 🔭 Today's Sky — 2026-05-23
-### Messier 2
+<!-- HEARTBEAT: 2026-05-24 08:33:30 UTC -->
+## 🔭 Today's Sky — 2026-05-24
+### A Martian Eclipse: Phobos Crosses the Sun
 
-![Messier 2](./assets/2026-05-23.jpg)
 
-*After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally...*
+
+*What's that passing in front of the Sun? It looks like a moon, but it can't be Earth's Moon, because it isn't round. It's the Martian moon Phobos.  The featured video was taken from the surface of Mars in 2022 by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 t...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-24 08:33:30 UTC -->
-## 🔭 Today's Sky — 2026-05-24
-### A Martian Eclipse: Phobos Crosses the Sun
+<!-- HEARTBEAT: 2026-05-25 10:16:59 UTC -->
+## 🔭 Today's Sky — 2026-05-25
+### Thackeray's Globules
 
+![Thackeray's Globules](./assets/2026-05-25.jpg)
 
-
-*What's that passing in front of the Sun? It looks like a moon, but it can't be Earth's Moon, because it isn't round. It's the Martian moon Phobos.  The featured video was taken from the surface of Mars in 2022 by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 t...*
+*What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years awa...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

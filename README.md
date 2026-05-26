@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-25 10:16:59 UTC -->
-## 🔭 Today's Sky — 2026-05-25
-### Thackeray's Globules
+<!-- HEARTBEAT: 2026-05-26 10:02:47 UTC -->
+## 🔭 Today's Sky — 2026-05-26
+### NGC 3660 and Burçin's Galaxy
 
-![Thackeray's Globules](./assets/2026-05-25.jpg)
+![NGC 3660 and Burçin's Galaxy](./assets/2026-05-26.jpg)
 
-*What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years awa...*
+*The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

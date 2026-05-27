@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-26 10:02:47 UTC -->
-## 🔭 Today's Sky — 2026-05-26
-### NGC 3660 and Burçin's Galaxy
+<!-- HEARTBEAT: 2026-05-27 09:59:40 UTC -->
+## 🔭 Today's Sky — 2026-05-27
+### PK 164 +31.1: The Headphone Nebula
 
-![NGC 3660 and Burçin's Galaxy](./assets/2026-05-26.jpg)
+![PK 164 +31.1: The Headphone Nebula](./assets/2026-05-27.jpg)
 
-*The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the...*
+*What is a pair of headphones doing in the sky? Today’s image features the Headphone Nebula, also known as PK 164 +31.1 or Jones-Emberson 1. This planetary nebula, the remnant of a dying Sun-like star, faintly occupies an angular region of the Lynx constellation about 1/5th the di...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

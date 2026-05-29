@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-27 09:59:40 UTC -->
-## 🔭 Today's Sky — 2026-05-27
-### PK 164 +31.1: The Headphone Nebula
+<!-- HEARTBEAT: 2026-05-28 10:09:35 UTC -->
+## 🔭 Today's Sky — 2026-05-28
+### NGC 1514: The Crystal Ball Nebula
 
-![PK 164 +31.1: The Headphone Nebula](./assets/2026-05-27.jpg)
+![NGC 1514: The Crystal Ball Nebula](./assets/2026-05-28.jpg)
 
-*What is a pair of headphones doing in the sky? Today’s image features the Headphone Nebula, also known as PK 164 +31.1 or Jones-Emberson 1. This planetary nebula, the remnant of a dying Sun-like star, faintly occupies an angular region of the Lynx constellation about 1/5th the di...*
+*What do you see in this crystal ball?   The featured image shows NGC 1514, known as the Crystal Ball Nebula, observed by the Gemini North telescope on Maunakea, in Hawai'i.   NGC 1514 is 1,500 light-years away and was discovered by William Herschel in 1790.   This planetary nebul...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

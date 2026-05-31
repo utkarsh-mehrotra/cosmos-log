@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-30 08:31:50 UTC -->
-## 🔭 Today's Sky — 2026-05-30
-### Supermoon Versus Micromoon
+<!-- HEARTBEAT: 2026-05-31 08:51:05 UTC -->
+## 🔭 Today's Sky — 2026-05-31
+### Eagle Nebula Pillars in Infrared from Hubble
 
-![Supermoon Versus Micromoon](./assets/2026-05-30.jpg)
+![Eagle Nebula Pillars in Infrared from Hubble](./assets/2026-05-31.jpg)
 
-*What is so micro about tonight's blue micromoon?  Just after sunset, a full moon will appear slightly smaller and dimmer than usual.  The reason is that the Moon's fully illuminated phase occurs within a short time of apogee - when the Moon is farthest from the Earth in its ellip...*
+*Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

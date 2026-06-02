@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-31 08:51:05 UTC -->
-## 🔭 Today's Sky — 2026-05-31
-### Eagle Nebula Pillars in Infrared from Hubble
+<!-- HEARTBEAT: 2026-06-01 11:42:50 UTC -->
+## 🔭 Today's Sky — 2026-06-01
+### Saturn at Night
 
-![Eagle Nebula Pillars in Infrared from Hubble](./assets/2026-05-31.jpg)
+![Saturn at Night](./assets/2026-06-01.jpg)
 
-*Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near...*
+*Telescopic views of Saturn and its beautiful rings often make it the star of star parties. But this stunning view of the outer gas gaint planet's rings and night side just isn't possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

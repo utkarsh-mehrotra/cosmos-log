@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-01 11:42:50 UTC -->
-## 🔭 Today's Sky — 2026-06-01
-### Saturn at Night
+<!-- HEARTBEAT: 2026-06-02 10:43:02 UTC -->
+## 🔭 Today's Sky — 2026-06-02
+### The Vela Supernova Remnant
 
-![Saturn at Night](./assets/2026-06-01.jpg)
+![The Vela Supernova Remnant](./assets/2026-06-02.jpg)
 
-*Telescopic views of Saturn and its beautiful rings often make it the star of star parties. But this stunning view of the outer gas gaint planet's rings and night side just isn't possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they...*
+*The explosion is over, but the consequences continue.  About twelve thousand years ago, a relatively normal star in the constellation Vela suddenly exploded, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer laye...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

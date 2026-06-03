@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-05-28 10:09:35 UTC -->
-## 🔭 Today's Sky — 2026-05-28
-### NGC 1514: The Crystal Ball Nebula
+<!-- HEARTBEAT: 2026-05-29 09:59:41 UTC -->
+## 🔭 Today's Sky — 2026-05-29
+### Messier 104
 
-![NGC 1514: The Crystal Ball Nebula](./assets/2026-05-28.jpg)
+![Messier 104](./assets/2026-05-29.jpg)
 
-*What do you see in this crystal ball?   The featured image shows NGC 1514, known as the Crystal Ball Nebula, observed by the Gemini North telescope on Maunakea, in Hawai'i.   NGC 1514 is 1,500 light-years away and was discovered by William Herschel in 1790.   This planetary nebul...*
+*A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesti...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-02 10:43:02 UTC -->
-## 🔭 Today's Sky — 2026-06-02
-### The Vela Supernova Remnant
+<!-- HEARTBEAT: 2026-06-03 11:06:27 UTC -->
+## 🔭 Today's Sky — 2026-06-03
+### Andromeda Through Gas and Dust
 
-![The Vela Supernova Remnant](./assets/2026-06-02.jpg)
+![Andromeda Through Gas and Dust](./assets/2026-06-03.png)
 
-*The explosion is over, but the consequences continue.  About twelve thousand years ago, a relatively normal star in the constellation Vela suddenly exploded, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer laye...*
+*Over 1000 years ago, Persian astronomer Abd al-Rahman al-Sufi published humanity’s oldest known record of the Andromeda Galaxy in "The Book of Fixed Stars" (Bodleian Library MS. Marsh 144 p. 167). 800 years later, Andromeda became the 31st entry in Charles Messier’s "Catalogue of...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

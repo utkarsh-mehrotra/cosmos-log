@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-03 11:06:27 UTC -->
-## 🔭 Today's Sky — 2026-06-03
-### Andromeda Through Gas and Dust
+<!-- HEARTBEAT: 2026-06-04 10:01:31 UTC -->
+## 🔭 Today's Sky — 2026-06-04
+### A Planetary Nebula with Cosmic Buckyballs
 
-![Andromeda Through Gas and Dust](./assets/2026-06-03.png)
+![A Planetary Nebula with Cosmic Buckyballs](./assets/2026-06-04.jpg)
 
-*Over 1000 years ago, Persian astronomer Abd al-Rahman al-Sufi published humanity’s oldest known record of the Andromeda Galaxy in "The Book of Fixed Stars" (Bodleian Library MS. Marsh 144 p. 167). 800 years later, Andromeda became the 31st entry in Charles Messier’s "Catalogue of...*
+*What is happening inside this unusual nebula?   Planetary nebula Tc 1, captured here in exquisite detail by the James Webb Space Telescope, is the celestial site where buckyballs were first identified in 2010.     Buckminsterfullerene — as buckyballs are officially called — is a ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

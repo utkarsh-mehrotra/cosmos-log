@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-04 10:01:31 UTC -->
-## 🔭 Today's Sky — 2026-06-04
-### A Planetary Nebula with Cosmic Buckyballs
+<!-- HEARTBEAT: 2026-06-05 09:58:32 UTC -->
+## 🔭 Today's Sky — 2026-06-05
+### The Hydra Cluster of Galaxies
 
-![A Planetary Nebula with Cosmic Buckyballs](./assets/2026-06-04.jpg)
+![The Hydra Cluster of Galaxies](./assets/2026-06-05.jpg)
 
-*What is happening inside this unusual nebula?   Planetary nebula Tc 1, captured here in exquisite detail by the James Webb Space Telescope, is the celestial site where buckyballs were first identified in 2010.     Buckminsterfullerene — as buckyballs are officially called — is a ...*
+*Within our own Milky Way galaxy, two bright, spiky stars stand like sentinels in the foreground of this cosmic snapshot. Far beyond them are the galaxies of the Hydra Cluster. In fact, while the spiky foreground stars are hundreds of light-years distant, the Hydra Cluster galaxie...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

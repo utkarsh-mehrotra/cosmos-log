@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-05 09:58:32 UTC -->
-## 🔭 Today's Sky — 2026-06-05
-### The Hydra Cluster of Galaxies
+<!-- HEARTBEAT: 2026-06-06 08:39:04 UTC -->
+## 🔭 Today's Sky — 2026-06-06
+### Charon: Moon of Pluto
 
-![The Hydra Cluster of Galaxies](./assets/2026-06-05.jpg)
+![Charon: Moon of Pluto](./assets/2026-06-06.jpg)
 
-*Within our own Milky Way galaxy, two bright, spiky stars stand like sentinels in the foreground of this cosmic snapshot. Far beyond them are the galaxies of the Hydra Cluster. In fact, while the spiky foreground stars are hundreds of light-years distant, the Hydra Cluster galaxie...*
+*A darkened and mysterious north polar region known to some as Mordor Macula caps this premier view of Charon, Pluto's largest moon. The high-resolution image was captured by the interplanetary space probe New Horizons near its closest approach to distant Pluto on July 14, 2015. T...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

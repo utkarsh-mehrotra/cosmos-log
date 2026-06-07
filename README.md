@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-06 08:39:04 UTC -->
-## 🔭 Today's Sky — 2026-06-06
-### Charon: Moon of Pluto
+<!-- HEARTBEAT: 2026-06-07 09:19:13 UTC -->
+## 🔭 Today's Sky — 2026-06-07
+### Jupiter and Venus from Earth
 
-![Charon: Moon of Pluto](./assets/2026-06-06.jpg)
+![Jupiter and Venus from Earth](./assets/2026-06-07.jpg)
 
-*A darkened and mysterious north polar region known to some as Mordor Macula caps this premier view of Charon, Pluto's largest moon. The high-resolution image was captured by the interplanetary space probe New Horizons near its closest approach to distant Pluto on July 14, 2015. T...*
+*It was visible around the world. The sunset conjunction of Jupiter (left) and Venus (right) in 2012 was visible almost no matter where you lived on Earth.  Anyone on our planet with a clear western horizon at sunset could see them. That year, a creative photographer traveled away...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

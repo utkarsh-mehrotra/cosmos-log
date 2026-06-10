@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-09 09:53:09 UTC -->
-## 🔭 Today's Sky — 2026-06-09
-### Thor's Helmet
+<!-- HEARTBEAT: 2026-06-10 10:09:16 UTC -->
+## 🔭 Today's Sky — 2026-06-10
+### The Eagle Nebula and Friends
 
-![Thor's Helmet](./assets/2026-06-09.jpg)
+![The Eagle Nebula and Friends](./assets/2026-06-10.jpg)
 
-*Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-c...*
+*What looks as if it is going to swallow the great Pillars of Creation? The Eagle Nebula (M16) is not a bird, a plane, or Superman. M16 is actually a combination of several celestial objects. NGC 6611 is the young star cluster that appears to peak out beneath the Eagle’s “wings”. ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

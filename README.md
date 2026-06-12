@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-10 10:09:16 UTC -->
-## 🔭 Today's Sky — 2026-06-10
-### The Eagle Nebula and Friends
+<!-- HEARTBEAT: 2026-06-12 10:19:58 UTC -->
+## 🔭 Today's Sky — 2026-06-12
+### Venus and Jupiter: Conjunction from Avebury
 
-![The Eagle Nebula and Friends](./assets/2026-06-10.jpg)
+![Venus and Jupiter: Conjunction from Avebury](./assets/2026-06-12.jpg)
 
-*What looks as if it is going to swallow the great Pillars of Creation? The Eagle Nebula (M16) is not a bird, a plane, or Superman. M16 is actually a combination of several celestial objects. NGC 6611 is the young star cluster that appears to peak out beneath the Eagle’s “wings”. ...*
+*To see Venus and Jupiter together this month, you won't need binoculars or even a telescope. Just look up after sunset and you'll find them emerging as the sky grows dark near the western horizon. In fact, on June 9 the two brightest planets were in close conjunction, separated o...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

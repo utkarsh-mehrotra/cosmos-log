@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-12 10:19:58 UTC -->
-## 🔭 Today's Sky — 2026-06-12
-### Venus and Jupiter: Conjunction from Avebury
+<!-- HEARTBEAT: 2026-06-13 09:21:03 UTC -->
+## 🔭 Today's Sky — 2026-06-13
+### Interplanetary Earth
 
-![Venus and Jupiter: Conjunction from Avebury](./assets/2026-06-12.jpg)
+![Interplanetary Earth](./assets/2026-06-13.jpg)
 
-*To see Venus and Jupiter together this month, you won't need binoculars or even a telescope. Just look up after sunset and you'll find them emerging as the sky grows dark near the western horizon. In fact, on June 9 the two brightest planets were in close conjunction, separated o...*
+*In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

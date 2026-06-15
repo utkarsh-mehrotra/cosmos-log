@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-14 09:40:31 UTC -->
-## 🔭 Today's Sky — 2026-06-14
-### 10 Days of Venus and Jupiter
+<!-- HEARTBEAT: 2026-06-15 12:23:10 UTC -->
+## 🔭 Today's Sky — 2026-06-15
+### Triple Shockwave from Sun Crossing Rocket
 
-![10 Days of Venus and Jupiter](./assets/2026-06-14.jpg)
+![Triple Shockwave from Sun Crossing Rocket](./assets/2026-06-15.jpg)
 
-*Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to...*
+*What's happening to this Sun-crossing rocket?  The SpaceX Falcon 9 rocket, visible on the upper left, launched only about one minute before this amazing image was captured.  As it rose to low Earth orbit from Cape Canaveral, Florida, USA,  in late May, the rocket became supersoni...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

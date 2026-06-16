@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-15 12:23:10 UTC -->
-## 🔭 Today's Sky — 2026-06-15
-### Triple Shockwave from Sun Crossing Rocket
+<!-- HEARTBEAT: 2026-06-16 11:18:43 UTC -->
+## 🔭 Today's Sky — 2026-06-16
+### Moons, Rings, Shadows, Clouds: Saturn (Cassini)
 
-![Triple Shockwave from Sun Crossing Rocket](./assets/2026-06-15.jpg)
+![Moons, Rings, Shadows, Clouds: Saturn (Cassini)](./assets/2026-06-16.jpg)
 
-*What's happening to this Sun-crossing rocket?  The SpaceX Falcon 9 rocket, visible on the upper left, launched only about one minute before this amazing image was captured.  As it rose to low Earth orbit from Cape Canaveral, Florida, USA,  in late May, the rocket became supersoni...*
+*While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are vi...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

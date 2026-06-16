@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-13 09:21:03 UTC -->
-## 🔭 Today's Sky — 2026-06-13
-### Interplanetary Earth
+<!-- HEARTBEAT: 2026-06-14 09:40:31 UTC -->
+## 🔭 Today's Sky — 2026-06-14
+### 10 Days of Venus and Jupiter
 
-![Interplanetary Earth](./assets/2026-06-13.jpg)
+![10 Days of Venus and Jupiter](./assets/2026-06-14.jpg)
 
-*In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the...*
+*Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

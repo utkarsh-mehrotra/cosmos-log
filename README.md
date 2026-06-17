@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-16 11:18:43 UTC -->
-## 🔭 Today's Sky — 2026-06-16
-### Moons, Rings, Shadows, Clouds: Saturn (Cassini)
+<!-- HEARTBEAT: 2026-06-17 11:03:56 UTC -->
+## 🔭 Today's Sky — 2026-06-17
+### Longmore 8: The Hamster Wheel Nebula
 
-![Moons, Rings, Shadows, Clouds: Saturn (Cassini)](./assets/2026-06-16.jpg)
+![Longmore 8: The Hamster Wheel Nebula](./assets/2026-06-17.jpg)
 
-*While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are vi...*
+*How did a hamster wheel get into space? The Hamster Wheel Nebula (Longmore 8) was discovered by Andrew Longmore in 1976 as a part of a larger survey of the southern sky. This survey employed several improvements in photographic technology, including the use of highly sensitive fi...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

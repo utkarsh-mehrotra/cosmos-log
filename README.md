@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-17 11:03:56 UTC -->
-## 🔭 Today's Sky — 2026-06-17
-### Longmore 8: The Hamster Wheel Nebula
+<!-- HEARTBEAT: 2026-06-18 10:25:38 UTC -->
+## 🔭 Today's Sky — 2026-06-18
+### Possible Supernova Remnant in Galactic Center
 
-![Longmore 8: The Hamster Wheel Nebula](./assets/2026-06-17.jpg)
+![Possible Supernova Remnant in Galactic Center](./assets/2026-06-18.jpg)
 
-*How did a hamster wheel get into space? The Hamster Wheel Nebula (Longmore 8) was discovered by Andrew Longmore in 1976 as a part of a larger survey of the southern sky. This survey employed several improvements in photographic technology, including the use of highly sensitive fi...*
+*Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

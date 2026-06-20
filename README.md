@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-19 10:43:55 UTC -->
-## 🔭 Today's Sky — 2026-06-19
-### Starry Night II
+<!-- HEARTBEAT: 2026-06-20 09:22:27 UTC -->
+## 🔭 Today's Sky — 2026-06-20
+### Daytime Moon Meets Evening Star
 
-![Starry Night II](./assets/2026-06-19.jpg)
+![Daytime Moon Meets Evening Star](./assets/2026-06-20.jpg)
 
-*Does this scene look familiar? It is a modern recreation of the famous painting Starry Night by Vincent van Gogh.  Both the image and the painting depict a tall tree on the left, a crescent moon on the upper right, the planet Venus just to the right of the tree, a foreground hori...*
+*Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moo...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

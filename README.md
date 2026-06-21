@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-20 09:22:27 UTC -->
-## 🔭 Today's Sky — 2026-06-20
-### Daytime Moon Meets Evening Star
+<!-- HEARTBEAT: 2026-06-21 09:54:48 UTC -->
+## 🔭 Today's Sky — 2026-06-21
+### Keogram: The Sky in 2025
 
-![Daytime Moon Meets Evening Star](./assets/2026-06-20.jpg)
+![Keogram: The Sky in 2025](./assets/2026-06-21.jpg)
 
-*Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moo...*
+*What if you could see the entire sky -- all at once -- for an entire year? That, very nearly, is what is pictured here.  Every 15 seconds during 2025, an all-sky camera took an image of the sky over the Netherlands. Central columns from these images were then aligned and combined...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

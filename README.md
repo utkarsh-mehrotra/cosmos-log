@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-21 09:54:48 UTC -->
-## 🔭 Today's Sky — 2026-06-21
-### Keogram: The Sky in 2025
+<!-- HEARTBEAT: 2026-06-22 12:11:00 UTC -->
+## 🔭 Today's Sky — 2026-06-22
+### M27: The Dumbbell Nebula
 
-![Keogram: The Sky in 2025](./assets/2026-06-21.jpg)
+![M27: The Dumbbell Nebula](./assets/2026-06-22.jpg)
 
-*What if you could see the entire sky -- all at once -- for an entire year? That, very nearly, is what is pictured here.  Every 15 seconds during 2025, an all-sky camera took an image of the sky over the Netherlands. Central columns from these images were then aligned and combined...*
+*Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

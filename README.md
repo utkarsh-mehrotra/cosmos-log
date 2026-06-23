@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-18 10:25:38 UTC -->
-## 🔭 Today's Sky — 2026-06-18
-### Possible Supernova Remnant in Galactic Center
+<!-- HEARTBEAT: 2026-06-19 10:43:55 UTC -->
+## 🔭 Today's Sky — 2026-06-19
+### Starry Night II
 
-![Possible Supernova Remnant in Galactic Center](./assets/2026-06-18.jpg)
+![Starry Night II](./assets/2026-06-19.jpg)
 
-*Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars ...*
+*Does this scene look familiar? It is a modern recreation of the famous painting Starry Night by Vincent van Gogh.  Both the image and the painting depict a tall tree on the left, a crescent moon on the upper right, the planet Venus just to the right of the tree, a foreground hori...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

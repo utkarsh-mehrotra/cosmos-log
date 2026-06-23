@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-22 12:11:00 UTC -->
-## 🔭 Today's Sky — 2026-06-22
-### M27: The Dumbbell Nebula
+<!-- HEARTBEAT: 2026-06-23 09:48:57 UTC -->
+## 🔭 Today's Sky — 2026-06-23
+### Flying Past Neptune's Moon Triton
 
-![M27: The Dumbbell Nebula](./assets/2026-06-22.jpg)
 
-*Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27...*
+
+*What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with ca...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

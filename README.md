@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-23 09:48:57 UTC -->
-## 🔭 Today's Sky — 2026-06-23
-### Flying Past Neptune's Moon Triton
+<!-- HEARTBEAT: 2026-06-24 09:37:25 UTC -->
+## 🔭 Today's Sky — 2026-06-24
+### SDO Observes a Coronal Mass Ejection
 
 
 
-*What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with ca...*
+*Why does the Sun throw stuff at us? The Sun’s surface is a churning soup of energetic electrons and ions called plasma. The motion of those charged particles creates magnetic field loops that are larger than the Earth. These loops twist, turn, and trap plasma. The featured time-l...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

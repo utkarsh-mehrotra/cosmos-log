@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-24 09:37:25 UTC -->
-## 🔭 Today's Sky — 2026-06-24
-### SDO Observes a Coronal Mass Ejection
+<!-- HEARTBEAT: 2026-06-25 09:28:02 UTC -->
+## 🔭 Today's Sky — 2026-06-25
+### Anticrepuscular Rays over Sicily
 
+![Anticrepuscular Rays over Sicily](./assets/2026-06-25.jpg)
 
-
-*Why does the Sun throw stuff at us? The Sun’s surface is a churning soup of energetic electrons and ions called plasma. The motion of those charged particles creates magnetic field loops that are larger than the Earth. These loops twist, turn, and trap plasma. The featured time-l...*
+*The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular ray...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

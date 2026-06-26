@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-25 09:28:02 UTC -->
-## 🔭 Today's Sky — 2026-06-25
-### Anticrepuscular Rays over Sicily
+<!-- HEARTBEAT: 2026-06-26 09:33:06 UTC -->
+## 🔭 Today's Sky — 2026-06-26
+### Milky Way Urban Style
 
-![Anticrepuscular Rays over Sicily](./assets/2026-06-25.jpg)
+![Milky Way Urban Style](./assets/2026-06-26.jpg)
 
-*The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular ray...*
+*In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the ext...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

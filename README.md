@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-27 08:40:23 UTC -->
-## 🔭 Today's Sky — 2026-06-27
-### Mars Marathon by Perseverance
+<!-- HEARTBEAT: 2026-06-28 08:57:01 UTC -->
+## 🔭 Today's Sky — 2026-06-28
+### AR 4478: Giant Sunspot Group
 
-![Mars Marathon by Perseverance](./assets/2026-06-27.jpg)
+![AR 4478: Giant Sunspot Group](./assets/2026-06-28.jpg)
 
-*In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, travel...*
+*Right now, one of the largest sunspot groups in recent history is crossing the Sun.  Active Region 4478 is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the Solar System.  Some of these CMEs might impact the Ea...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

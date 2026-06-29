@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-26 09:33:06 UTC -->
-## 🔭 Today's Sky — 2026-06-26
-### Milky Way Urban Style
+<!-- HEARTBEAT: 2026-06-27 08:40:23 UTC -->
+## 🔭 Today's Sky — 2026-06-27
+### Mars Marathon by Perseverance
 
-![Milky Way Urban Style](./assets/2026-06-26.jpg)
+![Mars Marathon by Perseverance](./assets/2026-06-27.jpg)
 
-*In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the ext...*
+*In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, travel...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

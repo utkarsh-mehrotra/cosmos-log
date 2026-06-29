@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-28 08:57:01 UTC -->
-## 🔭 Today's Sky — 2026-06-28
-### AR 4478: Giant Sunspot Group
+<!-- HEARTBEAT: 2026-06-29 11:06:36 UTC -->
+## 🔭 Today's Sky — 2026-06-29
+### M82: Galaxy with a Supergalactic Wind
 
-![AR 4478: Giant Sunspot Group](./assets/2026-06-28.jpg)
+![M82: Galaxy with a Supergalactic Wind](./assets/2026-06-29.jpg)
 
-*Right now, one of the largest sunspot groups in recent history is crossing the Sun.  Active Region 4478 is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the Solar System.  Some of these CMEs might impact the Ea...*
+*Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that t...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

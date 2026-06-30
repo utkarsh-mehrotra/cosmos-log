@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-29 11:06:36 UTC -->
-## 🔭 Today's Sky — 2026-06-29
-### M82: Galaxy with a Supergalactic Wind
+<!-- HEARTBEAT: 2026-06-30 09:44:02 UTC -->
+## 🔭 Today's Sky — 2026-06-30
+### Unusually Smooth Sections of Asteroid Itokawa
 
-![M82: Galaxy with a Supergalactic Wind](./assets/2026-06-29.jpg)
+![Unusually Smooth Sections of Asteroid Itokawa](./assets/2026-06-30.jpg)
 
-*Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that t...*
+*Why are parts of this asteroid's surface so smooth?  The answer seems likely to do with the dynamics of an asteroid that is a loose pile of rubble rather than a solid rock.  The unusual asteroid Itokawa was visited by the Japanese spacecraft Hayabusa in 2005 which imaged and docu...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

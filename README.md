@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-06-30 09:44:02 UTC -->
-## 🔭 Today's Sky — 2026-06-30
-### Unusually Smooth Sections of Asteroid Itokawa
+<!-- HEARTBEAT: 2026-07-01 09:55:23 UTC -->
+## 🔭 Today's Sky — 2026-07-01
+### The Cotton Candy Clouds of Rho Ophiuchi
 
-![Unusually Smooth Sections of Asteroid Itokawa](./assets/2026-06-30.jpg)
+![The Cotton Candy Clouds of Rho Ophiuchi](./assets/2026-07-01.jpg)
 
-*Why are parts of this asteroid's surface so smooth?  The answer seems likely to do with the dynamics of an asteroid that is a loose pile of rubble rather than a solid rock.  The unusual asteroid Itokawa was visited by the Japanese spacecraft Hayabusa in 2005 which imaged and docu...*
+*Although they look like cotton candy, you cannot eat these clouds! Taken in Cádiz, Spain, today's image features the Rho Ophiuchi complex, a rich tapestry of young and old astronomical phenomena. This colorful cloud complex is a nearby star-forming region containing hundreds of y...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

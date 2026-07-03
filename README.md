@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-01 09:55:23 UTC -->
-## 🔭 Today's Sky — 2026-07-01
-### The Cotton Candy Clouds of Rho Ophiuchi
+<!-- HEARTBEAT: 2026-07-03 09:23:38 UTC -->
+## 🔭 Today's Sky — 2026-07-03
+### Three Galaxies in Pavo
 
-![The Cotton Candy Clouds of Rho Ophiuchi](./assets/2026-07-01.jpg)
+![Three Galaxies in Pavo](./assets/2026-07-03.jpg)
 
-*Although they look like cotton candy, you cannot eat these clouds! Taken in Cádiz, Spain, today's image features the Rho Ophiuchi complex, a rich tapestry of young and old astronomical phenomena. This colorful cloud complex is a nearby star-forming region containing hundreds of y...*
+*Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

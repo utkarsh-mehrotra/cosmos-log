@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-03 09:23:38 UTC -->
-## 🔭 Today's Sky — 2026-07-03
-### Three Galaxies in Pavo
+<!-- HEARTBEAT: 2026-07-04 08:41:41 UTC -->
+## 🔭 Today's Sky — 2026-07-04
+### Pathfinder on Mars
 
-![Three Galaxies in Pavo](./assets/2026-07-03.jpg)
+![Pathfinder on Mars](./assets/2026-07-04.jpg)
 
-*Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770...*
+*On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-04 08:41:41 UTC -->
-## 🔭 Today's Sky — 2026-07-04
-### Pathfinder on Mars
+<!-- HEARTBEAT: 2026-07-05 08:57:11 UTC -->
+## 🔭 Today's Sky — 2026-07-05
+### Saturn's Iapetus: Painted Moon
 
-![Pathfinder on Mars](./assets/2026-07-04.jpg)
+![Saturn's Iapetus: Painted Moon](./assets/2026-07-05.jpg)
 
-*On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag...*
+*What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

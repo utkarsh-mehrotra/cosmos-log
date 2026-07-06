@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-05 08:57:11 UTC -->
-## 🔭 Today's Sky — 2026-07-05
-### Saturn's Iapetus: Painted Moon
+<!-- HEARTBEAT: 2026-07-06 10:43:08 UTC -->
+## 🔭 Today's Sky — 2026-07-06
+### Dueling Bands over the Atacama Desert
 
-![Saturn's Iapetus: Painted Moon](./assets/2026-07-05.jpg)
+![Dueling Bands over the Atacama Desert](./assets/2026-07-06.jpg)
 
-*What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within ...*
+*What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

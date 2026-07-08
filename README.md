@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-07 09:48:12 UTC -->
-## 🔭 Today's Sky — 2026-07-07
-### NGC 6188: Dragons of Ara
+<!-- HEARTBEAT: 2026-07-08 08:33:54 UTC -->
+## 🔭 Today's Sky — 2026-07-08
+### Swift Boost Mission
 
-![NGC 6188: Dragons of Ara](./assets/2026-07-07.jpg)
 
-*Where can you find dragons fighting in the night sky?  In the southern constellation of the Altar: Ara. The dragons are, of course, actually made of suggestively shaped gas and dust.  The celestial home of the mythological battling beasts is cataloged as NGC 6188 and located abou...*
+
+*Sometimes we can all use a little help from a friend.    NASA's Neil Gehrels Swift Observatory needs a boost to stay in orbit after almost 22 years of service.   This video shows an artist's visualization of the Swift Boost Mission: The Katalyst's LINK spacecraft was launched abo...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-08 08:33:54 UTC -->
-## 🔭 Today's Sky — 2026-07-08
-### Swift Boost Mission
+<!-- HEARTBEAT: 2026-07-09 09:55:45 UTC -->
+## 🔭 Today's Sky — 2026-07-09
+### The Red Glow of the Cosmic Bat Nebula
 
+![The Red Glow of the Cosmic Bat Nebula](./assets/2026-07-09.jpg)
 
-
-*Sometimes we can all use a little help from a friend.    NASA's Neil Gehrels Swift Observatory needs a boost to stay in orbit after almost 22 years of service.   This video shows an artist's visualization of the Swift Boost Mission: The Katalyst's LINK spacecraft was launched abo...*
+*This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (N...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

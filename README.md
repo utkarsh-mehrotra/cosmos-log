@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-09 09:55:45 UTC -->
-## 🔭 Today's Sky — 2026-07-09
-### The Red Glow of the Cosmic Bat Nebula
+<!-- HEARTBEAT: 2026-07-10 09:40:34 UTC -->
+## 🔭 Today's Sky — 2026-07-10
+### Western Moon, Eastern Sea
 
-![The Red Glow of the Cosmic Bat Nebula](./assets/2026-07-09.jpg)
+![Western Moon, Eastern Sea](./assets/2026-07-10.jpg)
 
-*This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (N...*
+*The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it's very difficult to see from an earthbound perspective. Still, captured on July 7 during a period of favorable tilt, or libration of...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-10 09:40:34 UTC -->
-## 🔭 Today's Sky — 2026-07-10
-### Western Moon, Eastern Sea
+<!-- HEARTBEAT: 2026-07-11 08:00:37 UTC -->
+## 🔭 Today's Sky — 2026-07-11
+### Messier 24: Sagittarius Star Cloud
 
-![Western Moon, Eastern Sea](./assets/2026-07-10.jpg)
+![Messier 24: Sagittarius Star Cloud](./assets/2026-07-11.jpg)
 
-*The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it's very difficult to see from an earthbound perspective. Still, captured on July 7 during a period of favorable tilt, or libration of...*
+*Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

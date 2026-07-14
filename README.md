@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-13 09:33:22 UTC -->
-## 🔭 Today's Sky — 2026-07-12
-### Galaxy NGC 474: Shells and Star Streams
+<!-- HEARTBEAT: 2026-07-14 08:12:35 UTC -->
+## 🔭 Today's Sky — 2026-07-14
+### Double Lobed Asteroid Torifune
 
-![Galaxy NGC 474: Shells and Star Streams](./assets/2026-07-12.jpg)
+![Double Lobed Asteroid Torifune](./assets/2026-07-14.jpg)
 
-*What's happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to de...*
+*Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has t...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

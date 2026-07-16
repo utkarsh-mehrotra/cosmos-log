@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-14 08:12:35 UTC -->
-## 🔭 Today's Sky — 2026-07-14
-### Double Lobed Asteroid Torifune
+<!-- HEARTBEAT: 2026-07-15 08:19:25 UTC -->
+## 🔭 Today's Sky — 2026-07-15
+### Red Sprites in the Tatacoa Desert
 
-![Double Lobed Asteroid Torifune](./assets/2026-07-14.jpg)
+![Red Sprites in the Tatacoa Desert](./assets/2026-07-15.jpg)
 
-*Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has t...*
+*Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cl...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

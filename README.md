@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-16 08:18:42 UTC -->
-## 🔭 Today's Sky — 2026-07-16
-### NGC 300: A Cosmic Gemstone with Stars and Gas Clouds
+<!-- HEARTBEAT: 2026-07-17 08:14:33 UTC -->
+## 🔭 Today's Sky — 2026-07-17
+### The Dust Trail of Comet Tempel 2
 
-![NGC 300: A Cosmic Gemstone with Stars and Gas Clouds](./assets/2026-07-16.jpg)
+![The Dust Trail of Comet Tempel 2](./assets/2026-07-17.jpg)
 
-*This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from...*
+*Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

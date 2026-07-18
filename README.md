@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-15 08:19:25 UTC -->
-## 🔭 Today's Sky — 2026-07-15
-### Red Sprites in the Tatacoa Desert
+<!-- HEARTBEAT: 2026-07-16 08:18:42 UTC -->
+## 🔭 Today's Sky — 2026-07-16
+### NGC 300: A Cosmic Gemstone with Stars and Gas Clouds
 
-![Red Sprites in the Tatacoa Desert](./assets/2026-07-15.jpg)
+![NGC 300: A Cosmic Gemstone with Stars and Gas Clouds](./assets/2026-07-16.jpg)
 
-*Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cl...*
+*This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

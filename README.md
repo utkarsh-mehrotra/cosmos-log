@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-19 08:23:43 UTC -->
-## 🔭 Today's Sky — 2026-07-19
-### Flying Saucer Crash Lands in Utah Desert
+<!-- HEARTBEAT: 2026-07-20 09:20:08 UTC -->
+## 🔭 Today's Sky — 2026-07-20
+### NGC 3576: The Statue of Liberty Nebula
 
-![Flying Saucer Crash Lands in Utah Desert](./assets/2026-07-19.jpg)
+![NGC 3576: The Statue of Liberty Nebula](./assets/2026-07-20.jpg)
 
-*A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis sp...*
+*What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping ange...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

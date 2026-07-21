@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-20 09:20:08 UTC -->
-## 🔭 Today's Sky — 2026-07-20
-### NGC 3576: The Statue of Liberty Nebula
+<!-- HEARTBEAT: 2026-07-21 08:33:54 UTC -->
+## 🔭 Today's Sky — 2026-07-21
+### Turtle Rock on Mars
 
-![NGC 3576: The Statue of Liberty Nebula](./assets/2026-07-20.jpg)
+![Turtle Rock on Mars](./assets/2026-07-21.jpg)
 
-*What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping ange...*
+*Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dub...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

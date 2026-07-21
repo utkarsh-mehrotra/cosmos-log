@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-17 08:14:33 UTC -->
-## 🔭 Today's Sky — 2026-07-17
-### The Dust Trail of Comet Tempel 2
+<!-- HEARTBEAT: 2026-07-18 07:56:21 UTC -->
+## 🔭 Today's Sky — 2026-07-18
+### Shadow and Rainbow
 
-![The Dust Trail of Comet Tempel 2](./assets/2026-07-17.jpg)
+![Shadow and Rainbow](./assets/2026-07-18.jpg)
 
-*Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. ...*
+*At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majes...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

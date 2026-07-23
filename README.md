@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-22 08:33:16 UTC -->
-## 🔭 Today's Sky — 2026-07-22
-### The Corona Australis Molecular Cloud and the Chandelier Cluster
+<!-- HEARTBEAT: 2026-07-23 08:34:38 UTC -->
+## 🔭 Today's Sky — 2026-07-23
+### The Large Magellanic Cloud
 
-![The Corona Australis Molecular Cloud and the Chandelier Cluster](./assets/2026-07-22.jpg)
+![The Large Magellanic Cloud](./assets/2026-07-23.jpg)
 
-*The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth....*
+*Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided e...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

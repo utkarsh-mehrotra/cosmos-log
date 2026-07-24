@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-23 08:34:38 UTC -->
-## 🔭 Today's Sky — 2026-07-23
-### The Large Magellanic Cloud
+<!-- HEARTBEAT: 2026-07-24 08:31:11 UTC -->
+## 🔭 Today's Sky — 2026-07-24
+### RCW 86: Historical Supernova Remnant
 
-![The Large Magellanic Cloud](./assets/2026-07-23.jpg)
+![RCW 86: Historical Supernova Remnant](./assets/2026-07-24.jpg)
 
-*Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided e...*
+*In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months be...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

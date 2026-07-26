@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-21 08:33:54 UTC -->
-## 🔭 Today's Sky — 2026-07-21
-### Turtle Rock on Mars
+<!-- HEARTBEAT: 2026-07-22 08:33:16 UTC -->
+## 🔭 Today's Sky — 2026-07-22
+### The Corona Australis Molecular Cloud and the Chandelier Cluster
 
-![Turtle Rock on Mars](./assets/2026-07-21.jpg)
+![The Corona Australis Molecular Cloud and the Chandelier Cluster](./assets/2026-07-22.jpg)
 
-*Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dub...*
+*The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth....*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-25 08:10:17 UTC -->
-## 🔭 Today's Sky — 2026-07-25
-### Tranquility and Serenity
+<!-- HEARTBEAT: 2026-07-26 08:30:40 UTC -->
+## 🔭 Today's Sky — 2026-07-26
+### Simulation TNG50: A Galaxy Cluster Forms
 
-![Tranquility and Serenity](./assets/2026-07-25.jpg)
 
-*The Seas of Tranquility and Serenity are calm today. They're calm most every day though, since they are actually lunar maria, ancient lava flows filling in large impact basins on the Moon. Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dar...*
+
+*How do clusters of galaxies form?  Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out.  One famous effort is TNG50 from IllustrisTNG, an upgrade of the famous Illustris Simulation. The first part of the featured video tra...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

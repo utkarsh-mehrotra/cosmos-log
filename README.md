@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-26 08:30:40 UTC -->
-## 🔭 Today's Sky — 2026-07-26
-### Simulation TNG50: A Galaxy Cluster Forms
+<!-- HEARTBEAT: 2026-07-27 09:56:41 UTC -->
+## 🔭 Today's Sky — 2026-07-27
+### NGC 7635: The Bubble Nebula
 
+![NGC 7635: The Bubble Nebula](./assets/2026-07-27.jpg)
 
-
-*How do clusters of galaxies form?  Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out.  One famous effort is TNG50 from IllustrisTNG, an upgrade of the famous Illustris Simulation. The first part of the featured video tra...*
+*What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of thi...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

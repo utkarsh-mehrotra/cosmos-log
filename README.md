@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-24 08:31:11 UTC -->
-## 🔭 Today's Sky — 2026-07-24
-### RCW 86: Historical Supernova Remnant
+<!-- HEARTBEAT: 2026-07-25 08:10:17 UTC -->
+## 🔭 Today's Sky — 2026-07-25
+### Tranquility and Serenity
 
-![RCW 86: Historical Supernova Remnant](./assets/2026-07-24.jpg)
+![Tranquility and Serenity](./assets/2026-07-25.jpg)
 
-*In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months be...*
+*The Seas of Tranquility and Serenity are calm today. They're calm most every day though, since they are actually lunar maria, ancient lava flows filling in large impact basins on the Moon. Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dar...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

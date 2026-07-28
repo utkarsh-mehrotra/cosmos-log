@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-27 09:56:41 UTC -->
-## 🔭 Today's Sky — 2026-07-27
-### NGC 7635: The Bubble Nebula
+<!-- HEARTBEAT: 2026-07-28 08:38:48 UTC -->
+## 🔭 Today's Sky — 2026-07-28
+### Barnards Loop over Twin Volcanoes
 
-![NGC 7635: The Bubble Nebula](./assets/2026-07-27.jpg)
+![Barnards Loop over Twin Volcanoes](./assets/2026-07-28.jpg)
 
-*What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of thi...*
+*What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

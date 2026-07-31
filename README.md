@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-29 08:44:56 UTC -->
-## 🔭 Today's Sky — 2026-07-29
-### Psyche Receives Gravity Assist from Mars
+<!-- HEARTBEAT: 2026-07-30 08:31:39 UTC -->
+## 🔭 Today's Sky — 2026-07-30
+### Red Sun through Wildfire Smoke
 
-![Psyche Receives Gravity Assist from Mars](./assets/2026-07-29.jpg)
+![Red Sun through Wildfire Smoke](./assets/2026-07-30.jpg)
 
-*Solar System bodies make deep space exploration more fuel efficient! Today’s video shows the Psyche spacecraft gaining speed and changing its trajectory with minimal fuel spent due to a gravity assist from Mars in May 2026. Mars has an average orbital speed of almost 87,000 km/h ...*
+*This could be the view from an exoplanet orbiting around a red dwarf star, but it is our own Sun.   This image was taken on July 22, 2026, in the Okanagan region in the Canadian province of British Columbia.   Wildfire smoke from the Pacific Northwest acted as a solar filter, all...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

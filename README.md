@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-30 08:31:39 UTC -->
-## 🔭 Today's Sky — 2026-07-30
-### Red Sun through Wildfire Smoke
+<!-- HEARTBEAT: 2026-07-31 08:53:42 UTC -->
+## 🔭 Today's Sky — 2026-07-31
+### NGC 4372 and the Dark Doodad
 
-![Red Sun through Wildfire Smoke](./assets/2026-07-30.jpg)
+![NGC 4372 and the Dark Doodad](./assets/2026-07-31.jpg)
 
-*This could be the view from an exoplanet orbiting around a red dwarf star, but it is our own Sun.   This image was taken on July 22, 2026, in the Okanagan region in the Canadian province of British Columbia.   Wildfire smoke from the Pacific Northwest acted as a solar filter, all...*
+*The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-28 08:38:48 UTC -->
-## 🔭 Today's Sky — 2026-07-28
-### Barnards Loop over Twin Volcanoes
+<!-- HEARTBEAT: 2026-07-29 08:44:56 UTC -->
+## 🔭 Today's Sky — 2026-07-29
+### Psyche Receives Gravity Assist from Mars
 
-![Barnards Loop over Twin Volcanoes](./assets/2026-07-28.jpg)
+![Psyche Receives Gravity Assist from Mars](./assets/2026-07-29.jpg)
 
-*What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected...*
+*Solar System bodies make deep space exploration more fuel efficient! Today’s video shows the Psyche spacecraft gaining speed and changing its trajectory with minimal fuel spent due to a gravity assist from Mars in May 2026. Mars has an average orbital speed of almost 87,000 km/h ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-01 08:24:52 UTC -->
-## 🔭 Today's Sky — 2026-08-01
-### Buck Moon and Belt of Venus
+<!-- HEARTBEAT: 2026-08-02 08:27:53 UTC -->
+## 🔭 Today's Sky — 2026-08-02
+### A Fire Rainbow over West Virginia
 
-![Buck Moon and Belt of Venus](./assets/2026-08-01.jpg)
+![A Fire Rainbow over West Virginia](./assets/2026-08-02.jpg)
 
-*The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shado...*
+*What's happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

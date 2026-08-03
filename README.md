@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-07-31 08:53:42 UTC -->
-## 🔭 Today's Sky — 2026-07-31
-### NGC 4372 and the Dark Doodad
+<!-- HEARTBEAT: 2026-08-01 08:24:52 UTC -->
+## 🔭 Today's Sky — 2026-08-01
+### Buck Moon and Belt of Venus
 
-![NGC 4372 and the Dark Doodad](./assets/2026-07-31.jpg)
+![Buck Moon and Belt of Venus](./assets/2026-08-01.jpg)
 
-*The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 ...*
+*The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shado...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

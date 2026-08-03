@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-02 08:27:53 UTC -->
-## 🔭 Today's Sky — 2026-08-02
-### A Fire Rainbow over West Virginia
+<!-- HEARTBEAT: 2026-08-03 09:51:36 UTC -->
+## 🔭 Today's Sky — 2026-08-03
+### Vaporizing Meteor Photobombs the Lacerta Nebula
 
-![A Fire Rainbow over West Virginia](./assets/2026-08-02.jpg)
+![Vaporizing Meteor Photobombs the Lacerta Nebula](./assets/2026-08-03.jpg)
 
-*What's happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun...*
+*What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and excitin...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-03 09:51:36 UTC -->
-## 🔭 Today's Sky — 2026-08-03
-### Vaporizing Meteor Photobombs the Lacerta Nebula
+<!-- HEARTBEAT: 2026-08-04 08:42:01 UTC -->
+## 🔭 Today's Sky — 2026-08-04
+### Curious Cometary Knots in the Helix Nebula
 
-![Vaporizing Meteor Photobombs the Lacerta Nebula](./assets/2026-08-03.jpg)
+![Curious Cometary Knots in the Helix Nebula](./assets/2026-08-04.jpg)
 
-*What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and excitin...*
+*What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

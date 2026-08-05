@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-04 08:42:01 UTC -->
-## 🔭 Today's Sky — 2026-08-04
-### Curious Cometary Knots in the Helix Nebula
+<!-- HEARTBEAT: 2026-08-05 08:40:20 UTC -->
+## 🔭 Today's Sky — 2026-08-05
+### Spokes on Saturn's B Ring
 
-![Curious Cometary Knots in the Helix Nebula](./assets/2026-08-04.jpg)
+![Spokes on Saturn's B Ring](./assets/2026-08-05.gif)
 
-*What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the...*
+*Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulis...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

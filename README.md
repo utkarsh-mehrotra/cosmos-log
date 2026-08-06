@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-05 08:40:20 UTC -->
-## 🔭 Today's Sky — 2026-08-05
-### Spokes on Saturn's B Ring
+<!-- HEARTBEAT: 2026-08-06 08:41:14 UTC -->
+## 🔭 Today's Sky — 2026-08-06
+### New Sharpest Image of the Sun Uncovers Instability
 
-![Spokes on Saturn's B Ring](./assets/2026-08-05.gif)
+![New Sharpest Image of the Sun Uncovers Instability](./assets/2026-08-06.jpg)
 
-*Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulis...*
+*What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

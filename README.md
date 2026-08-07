@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-06 08:41:14 UTC -->
-## 🔭 Today's Sky — 2026-08-06
-### New Sharpest Image of the Sun Uncovers Instability
+<!-- HEARTBEAT: 2026-08-07 07:20:34 UTC -->
+## 🔭 Today's Sky — 2026-08-07
+### Rubin's COSMOS field
 
-![New Sharpest Image of the Sun Uncovers Instability](./assets/2026-08-06.jpg)
+![Rubin's COSMOS field](./assets/2026-08-07.jpg)
 
-*What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of ...*
+*There are more than half a million galaxies in the central panel of this image from the NSF-DOE Vera C. Rubin Observatory in Chile.   This is the COSMOS field, a patch of sky several times larger than the full moon, first observed by Hubble.   It has also been observed by Webb an...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

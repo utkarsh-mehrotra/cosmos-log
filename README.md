@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-09 07:00:41 UTC -->
-## 🔭 Today's Sky — 2026-08-09
-### Contemplating the Sun
+<!-- HEARTBEAT: 2026-08-10 07:47:14 UTC -->
+## 🔭 Today's Sky — 2026-08-10
+### Three Galaxy Pairs
 
-![Contemplating the Sun](./assets/2026-08-09.jpg)
+![Three Galaxy Pairs](./assets/2026-08-10.jpg)
 
-*Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recr...*
+*ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the midd...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

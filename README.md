@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-07 07:20:34 UTC -->
-## 🔭 Today's Sky — 2026-08-07
-### Rubin's COSMOS field
+<!-- HEARTBEAT: 2026-08-09 07:00:41 UTC -->
+## 🔭 Today's Sky — 2026-08-09
+### Contemplating the Sun
 
-![Rubin's COSMOS field](./assets/2026-08-07.jpg)
+![Contemplating the Sun](./assets/2026-08-09.jpg)
 
-*There are more than half a million galaxies in the central panel of this image from the NSF-DOE Vera C. Rubin Observatory in Chile.   This is the COSMOS field, a patch of sky several times larger than the full moon, first observed by Hubble.   It has also been observed by Webb an...*
+*Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recr...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

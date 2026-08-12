@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-11 07:12:24 UTC -->
-## 🔭 Today's Sky — 2026-08-11
-### Six Moons of Saturn
+<!-- HEARTBEAT: 2026-08-12 07:37:00 UTC -->
+## 🔭 Today's Sky — 2026-08-12
+### Perseids Over a little Planet
 
-![Six Moons of Saturn](./assets/2026-08-11.jpg)
+![Perseids Over a little Planet](./assets/2026-08-12.jpg)
 
-*How many moons does Saturn have? While the total will likely continue to grow, as of June 2026 the ringed gas giant had 293 confirmed moons. That's easily more than any other planet of the Solar System, including ruling gas giant Jupiter with a mere 115 confirmed moons. Most of S...*
+*It looks like a view from the Little Prince's planet.   The featured image is a throwback to the 2024 Perseid meteor shower, surrounded in this projection by the Bieszczady Mountains in Poland.   Visible in the sky is the arch of the Milky Way, along with several nebulas in red a...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

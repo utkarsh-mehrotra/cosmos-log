@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-12 07:37:00 UTC -->
-## 🔭 Today's Sky — 2026-08-12
-### Perseids Over a little Planet
+<!-- HEARTBEAT: 2026-08-13 07:38:23 UTC -->
+## 🔭 Today's Sky — 2026-08-13
+### Total Solar Eclipse Over Spain
 
-![Perseids Over a little Planet](./assets/2026-08-12.jpg)
+![Total Solar Eclipse Over Spain](./assets/2026-08-13.jpg)
 
-*It looks like a view from the Little Prince's planet.   The featured image is a throwback to the 2024 Perseid meteor shower, surrounded in this projection by the Bieszczady Mountains in Poland.   Visible in the sky is the arch of the Milky Way, along with several nebulas in red a...*
+*On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the othe...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

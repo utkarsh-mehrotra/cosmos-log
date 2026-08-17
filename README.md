@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-16 06:43:21 UTC -->
-## 🔭 Today's Sky — 2026-08-16
-### Milky Way over Yellowstone
+<!-- HEARTBEAT: 2026-08-17 07:00:32 UTC -->
+## 🔭 Today's Sky — 2026-08-17
+### A Golden Corona Eclipse
 
-![Milky Way over Yellowstone](./assets/2026-08-16.jpg)
+![A Golden Corona Eclipse](./assets/2026-08-17.jpg)
 
-*The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the...*
+*This total solar eclipse appeared not only poetically beautiful but scientifically interesting.  Usually the solar corona appears white, and to some observers the corona of last week's total solar eclipse did appear this pearly color.  But this time, totality observers in Spain s...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

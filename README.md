@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-15 06:41:57 UTC -->
-## 🔭 Today's Sky — 2026-08-15
-### Bright Perseids from Sweden
+<!-- HEARTBEAT: 2026-08-16 06:43:21 UTC -->
+## 🔭 Today's Sky — 2026-08-16
+### Milky Way over Yellowstone
 
-![Bright Perseids from Sweden](./assets/2026-08-15.jpg)
+![Milky Way over Yellowstone](./assets/2026-08-16.jpg)
 
-*Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/S...*
+*The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

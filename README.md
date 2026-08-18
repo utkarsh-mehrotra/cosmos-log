@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-17 07:00:32 UTC -->
-## 🔭 Today's Sky — 2026-08-17
-### A Golden Corona Eclipse
+<!-- HEARTBEAT: 2026-08-18 06:48:12 UTC -->
+## 🔭 Today's Sky — 2026-08-18
+### Perseids from Perseus
 
-![A Golden Corona Eclipse](./assets/2026-08-17.jpg)
+![Perseids from Perseus](./assets/2026-08-18.jpg)
 
-*This total solar eclipse appeared not only poetically beautiful but scientifically interesting.  Usually the solar corona appears white, and to some observers the corona of last week's total solar eclipse did appear this pearly color.  But this time, totality observers in Spain s...*
+*This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in fron...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

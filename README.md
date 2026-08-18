@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-14 07:36:17 UTC -->
-## 🔭 Today's Sky — 2026-08-14
-### Total Solar Eclipse from Greenland
+<!-- HEARTBEAT: 2026-08-15 06:41:57 UTC -->
+## 🔭 Today's Sky — 2026-08-15
+### Bright Perseids from Sweden
 
-![Total Solar Eclipse from Greenland](./assets/2026-08-14.jpeg)
+![Bright Perseids from Sweden](./assets/2026-08-15.jpg)
 
-*On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who...*
+*Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/S...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

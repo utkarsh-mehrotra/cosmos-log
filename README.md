@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-18 06:48:12 UTC -->
-## 🔭 Today's Sky — 2026-08-18
-### Perseids from Perseus
+<!-- HEARTBEAT: 2026-08-19 06:49:07 UTC -->
+## 🔭 Today's Sky — 2026-08-19
+### The Case of the Mysterious Maybe Meteor
 
-![Perseids from Perseus](./assets/2026-08-18.jpg)
 
-*This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in fron...*
+
+*Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3"N 1°12'28.8"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is th...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

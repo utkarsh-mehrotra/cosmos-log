@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-19 06:49:07 UTC -->
-## 🔭 Today's Sky — 2026-08-19
-### The Case of the Mysterious Maybe Meteor
+<!-- HEARTBEAT: 2026-08-20 06:50:42 UTC -->
+## 🔭 Today's Sky — 2026-08-20
+### The Elephant's Trunk in Cepheus
 
+![The Elephant's Trunk in Cepheus](./assets/2026-08-20.jpeg)
 
-
-*Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3"N 1°12'28.8"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is th...*
+*Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years lon...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-20 06:50:42 UTC -->
-## 🔭 Today's Sky — 2026-08-20
-### The Elephant's Trunk in Cepheus
+<!-- HEARTBEAT: 2026-08-21 06:51:46 UTC -->
+## 🔭 Today's Sky — 2026-08-21
+### Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy
 
-![The Elephant's Trunk in Cepheus](./assets/2026-08-20.jpeg)
 
-*Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years lon...*
+
+*What does it feel like to zoom around a spinning supermassive black hole?   The featured video is an animation showing a time-lapse of 4 years of observations of the star S301 orbiting Sagittarius A*, the 4-million-solar-mass black hole in the center of our Galaxy.   S301 was dis...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

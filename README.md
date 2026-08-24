@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-23 06:45:19 UTC -->
-## 🔭 Today's Sky — 2026-08-23
-### Cassini Approaches Saturn
+<!-- HEARTBEAT: 2026-08-24 07:03:32 UTC -->
+## 🔭 Today's Sky — 2026-08-24
+### Comet 220P in Outburst
 
-![Cassini Approaches Saturn](./assets/2026-08-23.jpg)
+![Comet 220P in Outburst](./assets/2026-08-24.jpg)
 
-*What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have bee...*
+*Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration c...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

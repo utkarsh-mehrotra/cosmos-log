@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-22 06:43:54 UTC -->
-## 🔭 Today's Sky — 2026-08-22
-### Mostly Perseids
+<!-- HEARTBEAT: 2026-08-23 06:45:19 UTC -->
+## 🔭 Today's Sky — 2026-08-23
+### Cassini Approaches Saturn
 
-![Mostly Perseids](./assets/2026-08-22.jpg)
+![Cassini Approaches Saturn](./assets/2026-08-23.jpg)
 
-*Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with...*
+*What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have bee...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

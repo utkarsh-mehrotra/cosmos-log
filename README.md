@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-21 06:51:46 UTC -->
-## 🔭 Today's Sky — 2026-08-21
-### Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy
+<!-- HEARTBEAT: 2026-08-22 06:43:54 UTC -->
+## 🔭 Today's Sky — 2026-08-22
+### Mostly Perseids
 
+![Mostly Perseids](./assets/2026-08-22.jpg)
 
-
-*What does it feel like to zoom around a spinning supermassive black hole?   The featured video is an animation showing a time-lapse of 4 years of observations of the star S301 orbiting Sagittarius A*, the 4-million-solar-mass black hole in the center of our Galaxy.   S301 was dis...*
+*Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

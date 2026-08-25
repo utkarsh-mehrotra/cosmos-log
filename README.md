@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-24 07:03:32 UTC -->
-## 🔭 Today's Sky — 2026-08-24
-### Comet 220P in Outburst
+<!-- HEARTBEAT: 2026-08-25 06:53:13 UTC -->
+## 🔭 Today's Sky — 2026-08-25
+### Earth's Shadow Visualized with Lunar Eclipses
 
-![Comet 220P in Outburst](./assets/2026-08-24.jpg)
+![Earth's Shadow Visualized with Lunar Eclipses](./assets/2026-08-25.jpg)
 
-*Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration c...*
+*What’s creating this giant hole in space? This is not a black hole — it’s a shadow.  It’s Earth’s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Us...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

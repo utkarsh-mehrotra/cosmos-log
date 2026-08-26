@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-25 06:53:13 UTC -->
-## 🔭 Today's Sky — 2026-08-25
-### Earth's Shadow Visualized with Lunar Eclipses
+<!-- HEARTBEAT: 2026-08-26 06:54:12 UTC -->
+## 🔭 Today's Sky — 2026-08-26
+### JWST Images The Lion's Head Nebula
 
-![Earth's Shadow Visualized with Lunar Eclipses](./assets/2026-08-25.jpg)
+![JWST Images The Lion's Head Nebula](./assets/2026-08-26.jpg)
 
-*What’s creating this giant hole in space? This is not a black hole — it’s a shadow.  It’s Earth’s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Us...*
+*Are we looking at the future of our Sun? The James Webb Space Telescope captured today’s composite image of the Lion’s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion’s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclea...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-26 06:54:12 UTC -->
-## 🔭 Today's Sky — 2026-08-26
-### JWST Images The Lion's Head Nebula
+<!-- HEARTBEAT: 2026-08-27 17:27:38 UTC -->
+## 🔭 Today's Sky — 2026-08-27
+### Colorful Aurora over Icelandic Waterfall
 
-![JWST Images The Lion's Head Nebula](./assets/2026-08-26.jpg)
+![Colorful Aurora over Icelandic Waterfall](./assets/2026-08-27.jpg)
 
-*Are we looking at the future of our Sun? The James Webb Space Telescope captured today’s composite image of the Lion’s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion’s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclea...*
+*What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But i...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-28 18:21:08 UTC -->
-## 🔭 Today's Sky — 2026-08-28
-### The Sky Turns Above Paranal
+<!-- HEARTBEAT: 2026-08-29 12:29:24 UTC -->
+## 🔭 Today's Sky — 2026-08-29
+### Eclipse Pair
 
-![The Sky Turns Above Paranal](./assets/2026-08-28.jpg)
+![Eclipse Pair](./assets/2026-08-29.jpg)
 
-*At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can...*
+*clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -27,35 +27,15 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run update_log.py
-        env:
-          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
-        run: python update_log.py
-
-      - name: Commit and Push
+      - name: Configure git identity
         run: |
           git config --local user.email "utkarshmehrotra.live@gmail.com"
           git config --local user.name "Utkarsh Mehrotra"
-          
-          git add README.md log/ assets/ metadata/
-          
-          if [ -f .today_title ]; then
-            TODAY_TITLE=$(cat .today_title)
-            DATE=$(date -u +"%Y-%m-%d")
-            rm .today_title
-          else
-            TODAY_TITLE="Unknown Title"
-            DATE=$(date -u +"%Y-%m-%d")
-          fi
-          
-          git commit -m "🌌 ${DATE}: ${TODAY_TITLE}" || echo "Nothing to commit"
-          git push origin main || echo "Nothing to push"
 
-      - name: Print Summary
-        run: |
-          echo "### Cosmos Run Successful 🌌" >> $GITHUB_STEP_SUMMARY
-          echo "- **Date:** ${{ env.APOD_DATE }}" >> $GITHUB_STEP_SUMMARY
-          echo "- **Title:** ${{ env.APOD_TITLE }}" >> $GITHUB_STEP_SUMMARY
-          echo "- **Media Type:** ${{ env.APOD_MEDIA_TYPE }}" >> $GITHUB_STEP_SUMMARY
-          echo ""
-          echo "Title: ${{ env.APOD_TITLE }} | Date: ${{ env.APOD_DATE }} | Media Type: ${{ env.APOD_MEDIA_TYPE }}"
+      - name: Fetch APOD, catch up on gaps, commit with staggered timing
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+        run: python schedule_and_commit.py
+
+      - name: Push
+        run: git push origin main || echo "Nothing to push"

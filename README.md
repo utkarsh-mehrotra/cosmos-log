@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-29 12:29:24 UTC -->
-## 🔭 Today's Sky — 2026-08-29
-### Eclipse Pair
+<!-- HEARTBEAT: 2026-08-30 11:31:57 UTC -->
+## 🔭 Today's Sky — 2026-08-30
+### M74: A Grand Design Spiral
 
-![Eclipse Pair](./assets/2026-08-29.jpg)
+![M74: A Grand Design Spiral](./assets/2026-08-30.jpg)
 
-*clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at...*
+*If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

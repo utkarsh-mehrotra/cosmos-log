@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-30 11:31:57 UTC -->
-## 🔭 Today's Sky — 2026-08-30
-### M74: A Grand Design Spiral
+<!-- HEARTBEAT: 2026-08-31 13:05:41 UTC -->
+## 🔭 Today's Sky — 2026-08-31
+### Launch of the Roman Space Telescope
 
-![M74: A Grand Design Spiral](./assets/2026-08-30.jpg)
 
-*If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design ...*
+
+*A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST'...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

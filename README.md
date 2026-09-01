@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-08-31 13:05:41 UTC -->
-## 🔭 Today's Sky — 2026-08-31
-### Launch of the Roman Space Telescope
+<!-- HEARTBEAT: 2026-09-01 11:20:18 UTC -->
+## 🔭 Today's Sky — 2026-09-01
+### A Plane Lunar Eclipse
 
+![A Plane Lunar Eclipse](./assets/2026-09-01.jpg)
 
-
-*A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST'...*
+*Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any speci...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

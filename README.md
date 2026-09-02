@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-01 11:20:18 UTC -->
-## 🔭 Today's Sky — 2026-09-01
-### A Plane Lunar Eclipse
+<!-- HEARTBEAT: 2026-09-02 10:54:31 UTC -->
+## 🔭 Today's Sky — 2026-09-02
+### Solar Eclipses and Culture
 
-![A Plane Lunar Eclipse](./assets/2026-09-01.jpg)
+![Solar Eclipses and Culture](./assets/2026-09-02.jpg)
 
-*Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any speci...*
+*Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a brigh...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

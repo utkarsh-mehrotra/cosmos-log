@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-02 10:54:31 UTC -->
-## 🔭 Today's Sky — 2026-09-02
-### Solar Eclipses and Culture
+<!-- HEARTBEAT: 2026-09-03 10:54:00 UTC -->
+## 🔭 Today's Sky — 2026-09-03
+### The Eclipse and the Stork
 
-![Solar Eclipses and Culture](./assets/2026-09-02.jpg)
+![The Eclipse and the Stork](./assets/2026-09-03.jpg)
 
-*Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a brigh...*
+*How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to n...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

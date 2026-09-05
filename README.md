@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-04 10:53:27 UTC -->
-## 🔭 Today's Sky — 2026-09-04
-### Nā ʻUhane Māhoe Huki Pū i ke Ola
+<!-- HEARTBEAT: 2026-09-05 10:13:28 UTC -->
+## 🔭 Today's Sky — 2026-09-05
+### Chasing the Moon's Shadow
 
-![Nā ʻUhane Māhoe Huki Pū i ke Ola](./assets/2026-09-04.jpg)
+![Chasing the Moon's Shadow](./assets/2026-09-05.jpg)
 
-*Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured...*
+*Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time i...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

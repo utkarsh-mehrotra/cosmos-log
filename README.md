@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-05 10:13:28 UTC -->
-## 🔭 Today's Sky — 2026-09-05
-### Chasing the Moon's Shadow
+<!-- HEARTBEAT: 2026-09-06 10:33:41 UTC -->
+## 🔭 Today's Sky — 2026-09-06
+### Pluto in Enhanced Color
 
-![Chasing the Moon's Shadow](./assets/2026-09-05.jpg)
+![Pluto in Enhanced Color](./assets/2026-09-06.jpg)
 
-*Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time i...*
+*Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient wo...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-06 10:33:41 UTC -->
-## 🔭 Today's Sky — 2026-09-06
-### Pluto in Enhanced Color
+<!-- HEARTBEAT: 2026-09-07 11:57:46 UTC -->
+## 🔭 Today's Sky — 2026-09-07
+### The Pelican Nebula in Gas, Dust, and Stars
 
-![Pluto in Enhanced Color](./assets/2026-09-06.jpg)
+![The Pelican Nebula in Gas, Dust, and Stars](./assets/2026-09-07.jpg)
 
-*Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient wo...*
+*The Pelican Nebula is slowly being transformed.  IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-07 11:57:46 UTC -->
-## 🔭 Today's Sky — 2026-09-07
-### The Pelican Nebula in Gas, Dust, and Stars
+<!-- HEARTBEAT: 2026-09-08 10:53:08 UTC -->
+## 🔭 Today's Sky — 2026-09-08
+### Hubble: Decagon Around Saturn's South Pole
 
-![The Pelican Nebula in Gas, Dust, and Stars](./assets/2026-09-07.jpg)
+![Hubble: Decagon Around Saturn's South Pole](./assets/2026-09-08.jpg)
 
-*The Pelican Nebula is slowly being transformed.  IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details ...*
+*Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Satu...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-08 10:53:08 UTC -->
-## 🔭 Today's Sky — 2026-09-08
-### Hubble: Decagon Around Saturn's South Pole
+<!-- HEARTBEAT: 2026-09-09 10:57:52 UTC -->
+## 🔭 Today's Sky — 2026-09-09
+### Witness XZ Andromedae Wink
 
-![Hubble: Decagon Around Saturn's South Pole](./assets/2026-09-08.jpg)
 
-*Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Satu...*
+
+*Is this star winking at us? The central object in today’s animation is not one but two stars. XZ Andromedae, indicated by the bold lines, is an Algol-type eclipsing binary with a nearly edge-on orbit from Earth’s perspective. The bottom light curve shows the amount of light from ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

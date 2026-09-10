@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-09 10:57:52 UTC -->
-## 🔭 Today's Sky — 2026-09-09
-### Witness XZ Andromedae Wink
+<!-- HEARTBEAT: 2026-09-10 10:55:01 UTC -->
+## 🔭 Today's Sky — 2026-09-10
+### LDN 1295: The Giraffe Nebula
 
+![LDN 1295: The Giraffe Nebula](./assets/2026-09-10.jpg)
 
-
-*Is this star winking at us? The central object in today’s animation is not one but two stars. XZ Andromedae, indicated by the bold lines, is an Algol-type eclipsing binary with a nearly edge-on orbit from Earth’s perspective. The bottom light curve shows the amount of light from ...*
+*What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Ae...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

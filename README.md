@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-10 10:55:01 UTC -->
-## 🔭 Today's Sky — 2026-09-10
-### LDN 1295: The Giraffe Nebula
+<!-- HEARTBEAT: 2026-09-12 10:20:11 UTC -->
+## 🔭 Today's Sky — 2026-09-11
+### M83: The Southern Pinwheel
 
-![LDN 1295: The Giraffe Nebula](./assets/2026-09-10.jpg)
+![M83: The Southern Pinwheel](./assets/2026-09-11.jpg)
 
-*What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Ae...*
+*Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel.  Stil...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

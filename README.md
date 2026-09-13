@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-12 10:20:11 UTC -->
-## 🔭 Today's Sky — 2026-09-11
-### M83: The Southern Pinwheel
+<!-- HEARTBEAT: 2026-09-13 11:20:53 UTC -->
+## 🔭 Today's Sky — 2026-09-12
+### Apollo 11: Catching Some Sun
 
-![M83: The Southern Pinwheel](./assets/2026-09-11.jpg)
+![Apollo 11: Catching Some Sun](./assets/2026-09-12.jpg)
 
-*Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel.  Stil...*
+*Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pi...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

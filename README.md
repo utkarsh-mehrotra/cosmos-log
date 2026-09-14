@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-13 11:20:53 UTC -->
-## 🔭 Today's Sky — 2026-09-12
-### Apollo 11: Catching Some Sun
+<!-- HEARTBEAT: 2026-09-14 12:13:00 UTC -->
+## 🔭 Today's Sky — 2026-09-13
+### Comet NEOWISE Rising over the Adriatic Sea
 
-![Apollo 11: Catching Some Sun](./assets/2026-09-12.jpg)
 
-*Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pi...*
+
+*This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one o...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

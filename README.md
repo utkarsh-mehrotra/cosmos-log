@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-14 12:13:00 UTC -->
-## 🔭 Today's Sky — 2026-09-13
-### Comet NEOWISE Rising over the Adriatic Sea
+<!-- HEARTBEAT: 2026-09-14 12:13:24 UTC -->
+## 🔭 Today's Sky — 2026-09-14
+### Where Your Elements Came From
 
+![Where Your Elements Came From](./assets/2026-09-14.jpg)
 
-
-*This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one o...*
+*The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

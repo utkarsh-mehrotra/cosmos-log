@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-14 12:13:24 UTC -->
-## 🔭 Today's Sky — 2026-09-14
-### Where Your Elements Came From
+<!-- HEARTBEAT: 2026-09-15 11:22:16 UTC -->
+## 🔭 Today's Sky — 2026-09-15
+### A Daytime Eclipse: Moon Occults Venus
 
-![Where Your Elements Came From](./assets/2026-09-14.jpg)
+![A Daytime Eclipse: Moon Occults Venus](./assets/2026-09-15.jpg)
 
-*The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your...*
+*There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the plane...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

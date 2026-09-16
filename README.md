@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-15 11:22:16 UTC -->
-## 🔭 Today's Sky — 2026-09-15
-### A Daytime Eclipse: Moon Occults Venus
+<!-- HEARTBEAT: 2026-09-16 11:06:35 UTC -->
+## 🔭 Today's Sky — 2026-09-16
+### Webb's View of M64
 
-![A Daytime Eclipse: Moon Occults Venus](./assets/2026-09-15.jpg)
+![Webb's View of M64](./assets/2026-09-16.jpg)
 
-*There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the plane...*
+*Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Ins...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

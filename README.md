@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-16 11:06:35 UTC -->
-## 🔭 Today's Sky — 2026-09-16
-### Webb's View of M64
+<!-- HEARTBEAT: 2026-09-17 11:15:53 UTC -->
+## 🔭 Today's Sky — 2026-09-17
+### A Treasure Chest in the Carina Nebula
 
-![Webb's View of M64](./assets/2026-09-16.jpg)
+![A Treasure Chest in the Carina Nebula](./assets/2026-09-17.jpg)
 
-*Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Ins...*
+*This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

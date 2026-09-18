@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-17 11:15:53 UTC -->
-## 🔭 Today's Sky — 2026-09-17
-### A Treasure Chest in the Carina Nebula
+<!-- HEARTBEAT: 2026-09-18 10:49:13 UTC -->
+## 🔭 Today's Sky — 2026-09-18
+### Messier 33: The Triangulum Galaxy
 
-![A Treasure Chest in the Carina Nebula](./assets/2026-09-17.jpg)
+![Messier 33: The Triangulum Galaxy](./assets/2026-09-18.jpg)
 
-*This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar...*
+*The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

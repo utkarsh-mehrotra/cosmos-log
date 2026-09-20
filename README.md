@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-18 10:49:13 UTC -->
-## 🔭 Today's Sky — 2026-09-18
-### Messier 33: The Triangulum Galaxy
+<!-- HEARTBEAT: 2026-09-20 10:56:22 UTC -->
+## 🔭 Today's Sky — 2026-09-19
+### A Zodiacal Night
 
-![Messier 33: The Triangulum Galaxy](./assets/2026-09-18.jpg)
+![A Zodiacal Night](./assets/2026-09-19.jpg)
 
-*The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the...*
+*Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

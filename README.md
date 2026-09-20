@@ -6,12 +6,12 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 
 <!-- COSMOS-START -->
 <!-- HEARTBEAT: 2026-09-20 10:56:22 UTC -->
-## 🔭 Today's Sky — 2026-09-19
-### A Zodiacal Night
+## 🔭 Today's Sky — 2026-09-20
+### Analemma over the Callanish Stones
 
-![A Zodiacal Night](./assets/2026-09-19.jpg)
+![Analemma over the Callanish Stones](./assets/2026-09-20.jpg)
 
-*Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth...*
+*If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured ana...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

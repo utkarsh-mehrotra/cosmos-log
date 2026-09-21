@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-20 10:56:22 UTC -->
-## 🔭 Today's Sky — 2026-09-20
-### Analemma over the Callanish Stones
+<!-- HEARTBEAT: 2026-09-21 12:21:05 UTC -->
+## 🔭 Today's Sky — 2026-09-21
+### Cocoon Nebula Wide Field
 
-![Analemma over the Callanish Stones](./assets/2026-09-20.jpg)
+![Cocoon Nebula Wide Field](./assets/2026-09-21.jpg)
 
-*If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured ana...*
+*When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission an...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

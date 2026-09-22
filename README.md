@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-21 12:21:05 UTC -->
-## 🔭 Today's Sky — 2026-09-21
-### Cocoon Nebula Wide Field
+<!-- HEARTBEAT: 2026-09-22 11:12:30 UTC -->
+## 🔭 Today's Sky — 2026-09-22
+### Chance Triple Alignment: Plane, Space Station, Sun
 
-![Cocoon Nebula Wide Field](./assets/2026-09-21.jpg)
+![Chance Triple Alignment: Plane, Space Station, Sun](./assets/2026-09-22.jpg)
 
-*When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission an...*
+*This shot captured an unexpected silhouette. Which is it?  It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It i...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

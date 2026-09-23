@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-22 11:12:30 UTC -->
-## 🔭 Today's Sky — 2026-09-22
-### Chance Triple Alignment: Plane, Space Station, Sun
+<!-- HEARTBEAT: 2026-09-23 11:04:00 UTC -->
+## 🔭 Today's Sky — 2026-09-23
+### A New Lunar Crater: McGetchin
 
-![Chance Triple Alignment: Plane, Space Station, Sun](./assets/2026-09-22.jpg)
+![A New Lunar Crater: McGetchin](./assets/2026-09-23.jpg)
 
-*This shot captured an unexpected silhouette. Which is it?  It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It i...*
+*A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitorin...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-24 11:21:47 UTC -->
-## 🔭 Today's Sky — 2026-09-24
-### The Ghosts of Five Supernovas
+<!-- HEARTBEAT: 2026-09-25 11:27:15 UTC -->
+## 🔭 Today's Sky — 2026-09-25
+### Globular Cluster Omega Centauri
 
-![The Ghosts of Five Supernovas](./assets/2026-09-24.jpg)
+![Globular Cluster Omega Centauri](./assets/2026-09-25.jpg)
 
-*The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constella...*
+*Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

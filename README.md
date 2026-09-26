@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-25 11:27:15 UTC -->
-## 🔭 Today's Sky — 2026-09-25
-### Globular Cluster Omega Centauri
+<!-- HEARTBEAT: 2026-09-26 11:02:17 UTC -->
+## 🔭 Today's Sky — 2026-09-26
+### Mirrored Meteor and Milky Way
 
-![Globular Cluster Omega Centauri](./assets/2026-09-25.jpg)
+![Mirrored Meteor and Milky Way](./assets/2026-09-26.jpg)
 
-*Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the ...*
+*On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous st...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-26 11:02:17 UTC -->
-## 🔭 Today's Sky — 2026-09-26
-### Mirrored Meteor and Milky Way
+<!-- HEARTBEAT: 2026-09-27 11:41:15 UTC -->
+## 🔭 Today's Sky — 2026-09-27
+### Andromeda before Photoshop
 
-![Mirrored Meteor and Milky Way](./assets/2026-09-26.jpg)
+![Andromeda before Photoshop](./assets/2026-09-27.jpg)
 
-*On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous st...*
+*What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections.  The picture is a stac...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

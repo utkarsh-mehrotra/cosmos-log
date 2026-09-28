@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-27 11:41:15 UTC -->
-## 🔭 Today's Sky — 2026-09-27
-### Andromeda before Photoshop
+<!-- HEARTBEAT: 2026-09-28 13:17:44 UTC -->
+## 🔭 Today's Sky — 2026-09-28
+### Cosmic Latte: The Average Color of the Universe
 
-![Andromeda before Photoshop](./assets/2026-09-27.jpg)
+![Cosmic Latte: The Average Color of the Universe](./assets/2026-09-28.jpg)
 
-*What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections.  The picture is a stac...*
+*What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived sha...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

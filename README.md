@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-28 13:17:44 UTC -->
-## 🔭 Today's Sky — 2026-09-28
-### Cosmic Latte: The Average Color of the Universe
+<!-- HEARTBEAT: 2026-09-29 12:24:22 UTC -->
+## 🔭 Today's Sky — 2026-09-29
+### Sh2-188: The Shrimp Nebula
 
-![Cosmic Latte: The Average Color of the Universe](./assets/2026-09-28.jpg)
+![Sh2-188: The Shrimp Nebula](./assets/2026-09-29.jpg)
 
-*What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived sha...*
+*What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-lik...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-09-29 12:24:22 UTC -->
-## 🔭 Today's Sky — 2026-09-29
-### Sh2-188: The Shrimp Nebula
+<!-- HEARTBEAT: 2026-10-01 12:43:31 UTC -->
+## 🔭 Today's Sky — 2026-09-30
+### NASA Science
 
-![Sh2-188: The Shrimp Nebula](./assets/2026-09-29.jpg)
+![NASA Science](./assets/2026-09-30.png)
 
-*What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-lik...*
+*Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight,...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

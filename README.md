@@ -5,11 +5,11 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-01 12:43:31 UTC -->
-## 🔭 Today's Sky — 2026-09-30
+<!-- HEARTBEAT: 2026-10-01 12:43:52 UTC -->
+## 🔭 Today's Sky — 2026-10-01
 ### NASA Science
 
-![NASA Science](./assets/2026-09-30.png)
+![NASA Science](./assets/2026-10-01.png)
 
 *Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight,...*
 

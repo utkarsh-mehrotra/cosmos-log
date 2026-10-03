@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-01 12:43:52 UTC -->
-## 🔭 Today's Sky — 2026-10-01
+<!-- HEARTBEAT: 2026-10-03 11:18:52 UTC -->
+## 🔭 Today's Sky — 2026-10-02
 ### NASA Science
 
-![NASA Science](./assets/2026-10-01.png)
+![NASA Science](./assets/2026-10-02.png)
 
-*Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight,...*
+*On sol 1943 of its journey of exploration across the surface of Mars, the Curiosity Rover recorded this selfie at the south rim of Vera Rubin Ridge. Of course a sol is a Martian solar day, about 40 minutes longer than an Earth day. Curiosity's sol 1943 corresponds to Earth date J...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-03 11:18:52 UTC -->
-## 🔭 Today's Sky — 2026-10-02
+<!-- HEARTBEAT: 2026-10-04 11:59:10 UTC -->
+## 🔭 Today's Sky — 2026-10-03
 ### NASA Science
 
-![NASA Science](./assets/2026-10-02.png)
+![NASA Science](./assets/2026-10-03.png)
 
-*On sol 1943 of its journey of exploration across the surface of Mars, the Curiosity Rover recorded this selfie at the south rim of Vera Rubin Ridge. Of course a sol is a Martian solar day, about 40 minutes longer than an Earth day. Curiosity's sol 1943 corresponds to Earth date J...*
+*Yes, but can your rainbow do this? After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey, USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows. Over the course of the next hal...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

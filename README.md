@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-04 11:59:10 UTC -->
-## 🔭 Today's Sky — 2026-10-03
+<!-- HEARTBEAT: 2026-10-05 14:00:42 UTC -->
+## 🔭 Today's Sky — 2026-10-04
 ### NASA Science
 
-![NASA Science](./assets/2026-10-03.png)
+![NASA Science](./assets/2026-10-04.png)
 
-*Yes, but can your rainbow do this? After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey, USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows. Over the course of the next hal...*
+*A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key defining feature of this huge galaxy is a dark brim of dust that circles the disk galaxy's center. A much longer exposure, however, b...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

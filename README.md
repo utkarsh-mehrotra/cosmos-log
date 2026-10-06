@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-05 14:00:42 UTC -->
-## 🔭 Today's Sky — 2026-10-04
+<!-- HEARTBEAT: 2026-10-06 13:00:55 UTC -->
+## 🔭 Today's Sky — 2026-10-05
 ### NASA Science
 
-![NASA Science](./assets/2026-10-04.png)
+![NASA Science](./assets/2026-10-05.png)
 
-*A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key defining feature of this huge galaxy is a dark brim of dust that circles the disk galaxy's center. A much longer exposure, however, b...*
+*Have you ever seen a complete auroral oval? You can't see one from the ground because it makes too large a circle around one of Earth's magnetic poles. But spacecraft high above the Earth can see them. The featured video from ESA and CAS's robotic SMILE spacecraft shows not only ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

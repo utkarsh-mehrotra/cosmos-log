@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-06 13:00:55 UTC -->
-## 🔭 Today's Sky — 2026-10-05
+<!-- HEARTBEAT: 2026-10-07 12:55:14 UTC -->
+## 🔭 Today's Sky — 2026-10-06
 ### NASA Science
 
-![NASA Science](./assets/2026-10-05.png)
+![NASA Science](./assets/2026-10-06.png)
 
-*Have you ever seen a complete auroral oval? You can't see one from the ground because it makes too large a circle around one of Earth's magnetic poles. But spacecraft high above the Earth can see them. The featured video from ESA and CAS's robotic SMILE spacecraft shows not only ...*
+*"Happy New Year!" No, wait, this is not a fireworks display. This image shows Nebula Pa 30, observed with the Gemini North Telescope in Hawai'i. It is likely the remnant of an old supernova explosion: separate historical records by Chinese, Japanese and Arabic astronomers tell of...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

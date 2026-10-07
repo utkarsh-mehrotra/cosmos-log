@@ -5,11 +5,11 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-07 12:55:14 UTC -->
-## 🔭 Today's Sky — 2026-10-06
+<!-- HEARTBEAT: 2026-10-07 12:55:28 UTC -->
+## 🔭 Today's Sky — 2026-10-07
 ### NASA Science
 
-![NASA Science](./assets/2026-10-06.png)
+![NASA Science](./assets/2026-10-07.png)
 
 *"Happy New Year!" No, wait, this is not a fireworks display. This image shows Nebula Pa 30, observed with the Gemini North Telescope in Hawai'i. It is likely the remnant of an old supernova explosion: separate historical records by Chinese, Japanese and Arabic astronomers tell of...*
 

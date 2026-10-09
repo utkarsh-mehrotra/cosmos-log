@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-07 12:55:28 UTC -->
-## 🔭 Today's Sky — 2026-10-07
+<!-- HEARTBEAT: 2026-10-09 12:49:57 UTC -->
+## 🔭 Today's Sky — 2026-10-08
 ### NASA Science
 
-![NASA Science](./assets/2026-10-07.png)
+![NASA Science](./assets/2026-10-08.png)
 
-*"Happy New Year!" No, wait, this is not a fireworks display. This image shows Nebula Pa 30, observed with the Gemini North Telescope in Hawai'i. It is likely the remnant of an old supernova explosion: separate historical records by Chinese, Japanese and Arabic astronomers tell of...*
+*Stickney Crater, the largest crater on the martian moon Phobos, is named for Chloe Angeline Stickney Hall, mathematician and wife of astronomer Asaph Hall. Asaph Hall discovered both the Red Planet's moons in 1877. Over 9 kilometers across, Stickney is nearly half the diameter of...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

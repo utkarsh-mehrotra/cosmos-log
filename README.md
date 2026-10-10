@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-09 12:49:57 UTC -->
-## 🔭 Today's Sky — 2026-10-08
+<!-- HEARTBEAT: 2026-10-10 12:07:52 UTC -->
+## 🔭 Today's Sky — 2026-10-09
 ### NASA Science
 
-![NASA Science](./assets/2026-10-08.png)
+![NASA Science](./assets/2026-10-09.png)
 
-*Stickney Crater, the largest crater on the martian moon Phobos, is named for Chloe Angeline Stickney Hall, mathematician and wife of astronomer Asaph Hall. Asaph Hall discovered both the Red Planet's moons in 1877. Over 9 kilometers across, Stickney is nearly half the diameter of...*
+*Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

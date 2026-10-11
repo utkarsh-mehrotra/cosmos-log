@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-10 12:07:52 UTC -->
-## 🔭 Today's Sky — 2026-10-09
+<!-- HEARTBEAT: 2026-10-11 12:21:42 UTC -->
+## 🔭 Today's Sky — 2026-10-10
 ### NASA Science
 
-![NASA Science](./assets/2026-10-09.png)
+![NASA Science](./assets/2026-10-10.png)
 
-*Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is...*
+*Scientists are melting holes in the bottom of the world. In fact, almost 100 holes melted near the South Pole are now being used as an astronomical observatory. Astronomers with the IceCube Neutrino Observatory lowered a long string knotted with basketball-sized light detectors i...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

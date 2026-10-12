@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-11 12:21:42 UTC -->
-## 🔭 Today's Sky — 2026-10-10
+<!-- HEARTBEAT: 2026-10-12 14:50:13 UTC -->
+## 🔭 Today's Sky — 2026-10-11
 ### NASA Science
 
-![NASA Science](./assets/2026-10-10.png)
+![NASA Science](./assets/2026-10-11.png)
 
-*Scientists are melting holes in the bottom of the world. In fact, almost 100 holes melted near the South Pole are now being used as an astronomical observatory. Astronomers with the IceCube Neutrino Observatory lowered a long string knotted with basketball-sized light detectors i...*
+*How many moons can you see? The best answer is five: four orbiting Jupiter and Luna orbiting Earth. This multi-moon picture was possible because Earth's Moon moved directly in front of Jupiter last week. The featured image is a series of exposures near alignment taken from Westch...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

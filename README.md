@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-12 14:50:13 UTC -->
-## 🔭 Today's Sky — 2026-10-11
+<!-- HEARTBEAT: 2026-10-13 13:49:37 UTC -->
+## 🔭 Today's Sky — 2026-10-12
 ### NASA Science
 
-![NASA Science](./assets/2026-10-11.png)
+![NASA Science](./assets/2026-10-12.png)
 
-*How many moons can you see? The best answer is five: four orbiting Jupiter and Luna orbiting Earth. This multi-moon picture was possible because Earth's Moon moved directly in front of Jupiter last week. The featured image is a series of exposures near alignment taken from Westch...*
+*This stairway in Chile brings you only a little bit closer to heaven. But ooh, the sky above it makes you wonder. For example, you may wonder about the dark lane of our own Milky Way galaxy rising behind the expansive Atacama Desert in Chile, the band of zodiacal light on the upp...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

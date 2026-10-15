@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-14 11:27:10 UTC -->
-## 🔭 Today's Sky — 2026-10-13
+<!-- HEARTBEAT: 2026-10-15 11:03:43 UTC -->
+## 🔭 Today's Sky — 2026-10-14
 ### NASA Science
 
-![NASA Science](./assets/2026-10-13.png)
+![NASA Science](./assets/2026-10-14.png)
 
-*What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster (M44 or Praesepe) below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden. An eruption off the Sun reached Earth on October 10th, 2026 causing strong disturbances in Earth...*
+*The city lights outshine the stars in the City That Never Sleeps. Who would have thought that the Milky Way could be visible in this sky? This image was taken with a filter that blocks most visible light, capturing instead only light in the near-infrared region of the electromagn...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

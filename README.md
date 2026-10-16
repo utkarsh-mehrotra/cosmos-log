@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-15 11:03:43 UTC -->
-## 🔭 Today's Sky — 2026-10-14
+<!-- HEARTBEAT: 2026-10-16 10:59:08 UTC -->
+## 🔭 Today's Sky — 2026-10-15
 ### NASA Science
 
-![NASA Science](./assets/2026-10-14.png)
+![NASA Science](./assets/2026-10-15.png)
 
-*The city lights outshine the stars in the City That Never Sleeps. Who would have thought that the Milky Way could be visible in this sky? This image was taken with a filter that blocks most visible light, capturing instead only light in the near-infrared region of the electromagn...*
+*To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

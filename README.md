@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-16 10:59:08 UTC -->
-## 🔭 Today's Sky — 2026-10-15
+<!-- HEARTBEAT: 2026-10-17 10:20:45 UTC -->
+## 🔭 Today's Sky — 2026-10-16
 ### NASA Science
 
-![NASA Science](./assets/2026-10-15.png)
+![NASA Science](./assets/2026-10-16.png)
 
-*To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide*
+*Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a di...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

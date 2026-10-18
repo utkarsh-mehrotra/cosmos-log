@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-17 10:20:45 UTC -->
-## 🔭 Today's Sky — 2026-10-16
+<!-- HEARTBEAT: 2026-10-18 10:37:14 UTC -->
+## 🔭 Today's Sky — 2026-10-17
 ### NASA Science
 
-![NASA Science](./assets/2026-10-16.png)
+![NASA Science](./assets/2026-10-17.png)
 
-*Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a di...*
+*Yes, but have you ever experienced the Eagle Nebula with your ears? The famous nebula M16 is best known for the feast it gives your eyes, highlighting bright young stars forming deep inside dark towering structures. These light-years long columns of cold gas and dust are some 6,5...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

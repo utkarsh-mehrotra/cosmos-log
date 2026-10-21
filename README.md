@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-20 11:08:12 UTC -->
-## 🔭 Today's Sky — 2026-10-19
+<!-- HEARTBEAT: 2026-10-21 11:24:11 UTC -->
+## 🔭 Today's Sky — 2026-10-20
 ### NASA Science
 
-![NASA Science](./assets/2026-10-19.png)
+![NASA Science](./assets/2026-10-20.png)
 
-* This is an unusual rainbow. For one thing, the rainbow is not complete, appearing only in a sunlit fan -- but that by itself is not very unusual. What is most unusual is the fake location of the Sun. The Sun appears to be toward the front, just below those hills -- but it is not...*
+*Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today’s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system γ C...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

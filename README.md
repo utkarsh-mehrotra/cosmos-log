@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-21 11:24:11 UTC -->
-## 🔭 Today's Sky — 2026-10-20
+<!-- HEARTBEAT: 2026-10-22 11:24:20 UTC -->
+## 🔭 Today's Sky — 2026-10-21
 ### NASA Science
 
-![NASA Science](./assets/2026-10-20.png)
+![NASA Science](./assets/2026-10-21.png)
 
-*Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today’s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system γ C...*
+*Star light, star bright: is there a green star out tonight? Other than the Sun, all stars are so far from Earth that they appear as points in the sky. They are mostly white, but sometimes noticeably red or blue. This color typically relates to the temperature: blue stars are hott...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

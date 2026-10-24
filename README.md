@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-23 11:14:16 UTC -->
-## 🔭 Today's Sky — 2026-10-22
+<!-- HEARTBEAT: 2026-10-24 10:33:24 UTC -->
+## 🔭 Today's Sky — 2026-10-23
 ### NASA Science
 
-![NASA Science](./assets/2026-10-22.png)
+![NASA Science](./assets/2026-10-23.png)
 
-*Looking toward the north from Mullion, New South Wales, Australia, the Andromeda Galaxy never gets more than a few degrees above the horizon. During the southern hemisphere spring, Andromeda is highest in the sky around midnight though. And in this telephoto scene from October 10...*
+*This Rosetta spacecraft selfie was snapped on October 7th, 2014. At the time the comet-chasing spacecraft was about 472 million kilometers from planet Earth, but only 16 kilometers from the surface of comet 67P/Churyumov-Gerasimenko. Looming beyond the spacecraft near the top of ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

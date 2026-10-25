@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-24 10:33:24 UTC -->
-## 🔭 Today's Sky — 2026-10-23
+<!-- HEARTBEAT: 2026-10-25 10:58:42 UTC -->
+## 🔭 Today's Sky — 2026-10-24
 ### NASA Science
 
-![NASA Science](./assets/2026-10-23.png)
+![NASA Science](./assets/2026-10-24.png)
 
-*This Rosetta spacecraft selfie was snapped on October 7th, 2014. At the time the comet-chasing spacecraft was about 472 million kilometers from planet Earth, but only 16 kilometers from the surface of comet 67P/Churyumov-Gerasimenko. Looming beyond the spacecraft near the top of ...*
+*Is our universe haunted? It might look that way on this dark matter map. The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and how visible matter i...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

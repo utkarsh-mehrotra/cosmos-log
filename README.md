@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-25 10:58:42 UTC -->
-## 🔭 Today's Sky — 2026-10-24
+<!-- HEARTBEAT: 2026-10-26 12:30:41 UTC -->
+## 🔭 Today's Sky — 2026-10-25
 ### NASA Science
 
-![NASA Science](./assets/2026-10-24.png)
+![NASA Science](./assets/2026-10-25.png)
 
-*Is our universe haunted? It might look that way on this dark matter map. The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and how visible matter i...*
+*The Great Nebula in Orion, an immense, nearby starbirth region, is one the most famous of all astronomical nebulas. Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigne...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

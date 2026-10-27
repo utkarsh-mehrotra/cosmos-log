@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-26 12:30:41 UTC -->
-## 🔭 Today's Sky — 2026-10-25
+<!-- HEARTBEAT: 2026-10-27 11:48:27 UTC -->
+## 🔭 Today's Sky — 2026-10-26
 ### NASA Science
 
-![NASA Science](./assets/2026-10-25.png)
+![NASA Science](./assets/2026-10-26.png)
 
-*The Great Nebula in Orion, an immense, nearby starbirth region, is one the most famous of all astronomical nebulas. Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigne...*
+* Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noc...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

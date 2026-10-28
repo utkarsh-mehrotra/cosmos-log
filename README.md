@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-27 11:48:34 UTC -->
-## 🔭 Today's Sky — 2026-10-27
+<!-- HEARTBEAT: 2026-10-28 12:23:08 UTC -->
+## 🔭 Today's Sky — 2026-10-28
 ### NASA Science
 
-![NASA Science](./assets/2026-10-27.png)
+![NASA Science](./assets/2026-10-28.png)
 
-* Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noc...*
+*To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

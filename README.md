@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-28 12:23:08 UTC -->
-## 🔭 Today's Sky — 2026-10-28
+<!-- HEARTBEAT: 2026-10-30 12:23:57 UTC -->
+## 🔭 Today's Sky — 2026-10-29
 ### NASA Science
 
-![NASA Science](./assets/2026-10-28.png)
+![NASA Science](./assets/2026-10-29.png)
 
-*To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide*
+*Spooky shapes seem to haunt this dusty expanse, drifting through the night in the royal constellation Cepheus. Of course, the shapes are cosmic dust clouds visible in dimly reflected starlight. Far from your own neighborhood, they lurk above the plane of the Milky Way at the edge...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

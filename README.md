@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-30 12:23:57 UTC -->
-## 🔭 Today's Sky — 2026-10-29
+<!-- HEARTBEAT: 2026-10-31 11:53:52 UTC -->
+## 🔭 Today's Sky — 2026-10-30
 ### NASA Science
 
-![NASA Science](./assets/2026-10-29.png)
+![NASA Science](./assets/2026-10-30.png)
 
-*Spooky shapes seem to haunt this dusty expanse, drifting through the night in the royal constellation Cepheus. Of course, the shapes are cosmic dust clouds visible in dimly reflected starlight. Far from your own neighborhood, they lurk above the plane of the Milky Way at the edge...*
+*What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir, a geothermally active area found along northeastern Iceland's volcanic landscape. Triggered by solar activity, geomagnetic storms have unleashed energetic...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

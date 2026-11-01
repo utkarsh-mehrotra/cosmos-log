@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-10-31 11:53:52 UTC -->
-## 🔭 Today's Sky — 2026-10-30
+<!-- HEARTBEAT: 2026-11-01 12:53:01 UTC -->
+## 🔭 Today's Sky — 2026-10-31
 ### NASA Science
 
-![NASA Science](./assets/2026-10-30.png)
+![NASA Science](./assets/2026-10-31.png)
 
-*What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir, a geothermally active area found along northeastern Iceland's volcanic landscape. Triggered by solar activity, geomagnetic storms have unleashed energetic...*
+*What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Eart...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

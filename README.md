@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-01 12:53:01 UTC -->
-## 🔭 Today's Sky — 2026-10-31
+<!-- HEARTBEAT: 2026-11-02 15:06:19 UTC -->
+## 🔭 Today's Sky — 2026-11-01
 ### NASA Science
 
-![NASA Science](./assets/2026-10-31.png)
+![NASA Science](./assets/2026-11-01.png)
 
-*What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Eart...*
+*What’s causing this unusually long cloud on Mars? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA’s robotic Mars Express spacecraft. The featured image i...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

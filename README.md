@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-02 15:06:19 UTC -->
-## 🔭 Today's Sky — 2026-11-01
+<!-- HEARTBEAT: 2026-11-03 13:51:11 UTC -->
+## 🔭 Today's Sky — 2026-11-02
 ### NASA Science
 
-![NASA Science](./assets/2026-11-01.png)
+![NASA Science](./assets/2026-11-02.png)
 
-*What’s causing this unusually long cloud on Mars? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA’s robotic Mars Express spacecraft. The featured image i...*
+* Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

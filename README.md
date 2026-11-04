@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-03 13:51:11 UTC -->
-## 🔭 Today's Sky — 2026-11-02
+<!-- HEARTBEAT: 2026-11-04 13:58:17 UTC -->
+## 🔭 Today's Sky — 2026-11-03
 ### NASA Science
 
-![NASA Science](./assets/2026-11-02.png)
+![NASA Science](./assets/2026-11-03.png)
 
-* Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the ...*
+*“I see” IC 342, the Hidden Galaxy! Today’s image peers through the plane of the Milky Way, through all its gas, dust and stars, to unveil this spiral galaxy. IC 342 (or Caldwell 5) is one of the brightest members of the IC 342/Maffei group of galaxies. Located about 10 million li...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

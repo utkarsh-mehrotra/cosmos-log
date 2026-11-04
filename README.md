@@ -5,11 +5,11 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-04 13:58:17 UTC -->
-## 🔭 Today's Sky — 2026-11-03
+<!-- HEARTBEAT: 2026-11-04 13:58:26 UTC -->
+## 🔭 Today's Sky — 2026-11-04
 ### NASA Science
 
-![NASA Science](./assets/2026-11-03.png)
+![NASA Science](./assets/2026-11-04.png)
 
 *“I see” IC 342, the Hidden Galaxy! Today’s image peers through the plane of the Milky Way, through all its gas, dust and stars, to unveil this spiral galaxy. IC 342 (or Caldwell 5) is one of the brightest members of the IC 342/Maffei group of galaxies. Located about 10 million li...*
 

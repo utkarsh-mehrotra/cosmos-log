@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-04 13:58:26 UTC -->
-## 🔭 Today's Sky — 2026-11-04
+<!-- HEARTBEAT: 2026-11-06 13:56:13 UTC -->
+## 🔭 Today's Sky — 2026-11-05
 ### NASA Science
 
-![NASA Science](./assets/2026-11-04.png)
+![NASA Science](./assets/2026-11-05.png)
 
-*“I see” IC 342, the Hidden Galaxy! Today’s image peers through the plane of the Milky Way, through all its gas, dust and stars, to unveil this spiral galaxy. IC 342 (or Caldwell 5) is one of the brightest members of the IC 342/Maffei group of galaxies. Located about 10 million li...*
+*It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia. The featured image is a mosaic created in 2018 using the first o...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

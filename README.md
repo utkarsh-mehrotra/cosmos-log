@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-06 13:56:13 UTC -->
-## 🔭 Today's Sky — 2026-11-05
+<!-- HEARTBEAT: 2026-11-07 12:40:44 UTC -->
+## 🔭 Today's Sky — 2026-11-06
 ### NASA Science
 
-![NASA Science](./assets/2026-11-05.png)
+![NASA Science](./assets/2026-11-06.png)
 
-*It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia. The featured image is a mosaic created in 2018 using the first o...*
+*De Gerlache-Kocher massif looms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to the lunar south pole. Boasting permanently shadowed crater floors that likely co...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

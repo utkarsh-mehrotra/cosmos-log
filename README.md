@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-07 12:40:44 UTC -->
-## 🔭 Today's Sky — 2026-11-06
+<!-- HEARTBEAT: 2026-11-08 12:57:52 UTC -->
+## 🔭 Today's Sky — 2026-11-07
 ### NASA Science
 
-![NASA Science](./assets/2026-11-06.png)
+![NASA Science](./assets/2026-11-07.png)
 
-*De Gerlache-Kocher massif looms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to the lunar south pole. Boasting permanently shadowed crater floors that likely co...*
+*The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

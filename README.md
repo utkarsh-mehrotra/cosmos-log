@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-08 12:57:52 UTC -->
-## 🔭 Today's Sky — 2026-11-07
+<!-- HEARTBEAT: 2026-11-09 15:37:48 UTC -->
+## 🔭 Today's Sky — 2026-11-08
 ### NASA Science
 
-![NASA Science](./assets/2026-11-07.png)
+![NASA Science](./assets/2026-11-08.png)
 
-*The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta ...*
+*Does the blue nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula's shape resembles a Halloween-style caricature of a witch's head. Exactly how, though, can be a topic of imaginative speculation. What is cle...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

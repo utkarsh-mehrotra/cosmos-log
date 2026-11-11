@@ -5,11 +5,11 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-11 13:48:01 UTC -->
-## 🔭 Today's Sky — 2026-11-09
+<!-- HEARTBEAT: 2026-11-11 13:48:05 UTC -->
+## 🔭 Today's Sky — 2026-11-10
 ### NASA Science
 
-![NASA Science](./assets/2026-11-09.png)
+![NASA Science](./assets/2026-11-10.png)
 
 *Don’t judge a galaxy by its size. Our home galaxy, the Milky Way, is about 100,000 light years across. This huge expanse of space contains hundreds of billions of stars! The smallest galaxies, called dwarf galaxies, are about 1/10th the size of the Milky Way and only contain a fe...*
 

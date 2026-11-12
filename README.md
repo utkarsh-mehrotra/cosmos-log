@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-11 13:48:05 UTC -->
-## 🔭 Today's Sky — 2026-11-10
+<!-- HEARTBEAT: 2026-11-12 14:50:42 UTC -->
+## 🔭 Today's Sky — 2026-11-11
 ### NASA Science
 
-![NASA Science](./assets/2026-11-10.png)
+![NASA Science](./assets/2026-11-11.png)
 
-*Don’t judge a galaxy by its size. Our home galaxy, the Milky Way, is about 100,000 light years across. This huge expanse of space contains hundreds of billions of stars! The smallest galaxies, called dwarf galaxies, are about 1/10th the size of the Milky Way and only contain a fe...*
+*Not all those who wander are lost. A night sky example is that planets wander, and in fact the very word "planet" comes from "wandering star" in Greek. As planets shift relative to fixed stars, they may appear from our perspective to get closer to other astronomical objects. Such...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

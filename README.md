@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-12 14:50:42 UTC -->
-## 🔭 Today's Sky — 2026-11-11
+<!-- HEARTBEAT: 2026-11-13 14:13:22 UTC -->
+## 🔭 Today's Sky — 2026-11-12
 ### NASA Science
 
-![NASA Science](./assets/2026-11-11.png)
+![NASA Science](./assets/2026-11-12.png)
 
-*Not all those who wander are lost. A night sky example is that planets wander, and in fact the very word "planet" comes from "wandering star" in Greek. As planets shift relative to fixed stars, they may appear from our perspective to get closer to other astronomical objects. Such...*
+*The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the cente...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

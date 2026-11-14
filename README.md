@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-13 14:13:22 UTC -->
-## 🔭 Today's Sky — 2026-11-12
+<!-- HEARTBEAT: 2026-11-14 13:12:04 UTC -->
+## 🔭 Today's Sky — 2026-11-13
 ### NASA Science
 
-![NASA Science](./assets/2026-11-12.png)
+![NASA Science](./assets/2026-11-13.png)
 
-*The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the cente...*
+*Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November of 1969. Surveyor 3 had landedat the site on the inside slope of a small crate...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

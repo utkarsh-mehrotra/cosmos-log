@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-14 13:12:04 UTC -->
-## 🔭 Today's Sky — 2026-11-13
+<!-- HEARTBEAT: 2026-11-15 13:39:59 UTC -->
+## 🔭 Today's Sky — 2026-11-14
 ### NASA Science
 
-![NASA Science](./assets/2026-11-13.png)
+![NASA Science](./assets/2026-11-14.png)
 
-*Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November of 1969. Surveyor 3 had landedat the site on the inside slope of a small crate...*
+*Where will the next meteor appear? Even during a meteor shower, it is practically impossible to know. Therefore, a good way to enjoy a meteor shower is to find a place where you can sit comfortably and monitor a great expanse of dark sky. And it may be satisfying to share this ex...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

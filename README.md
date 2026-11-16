@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-15 13:39:59 UTC -->
-## 🔭 Today's Sky — 2026-11-14
+<!-- HEARTBEAT: 2026-11-16 15:12:33 UTC -->
+## 🔭 Today's Sky — 2026-11-15
 ### NASA Science
 
-![NASA Science](./assets/2026-11-14.png)
+![NASA Science](./assets/2026-11-15.png)
 
-*Where will the next meteor appear? Even during a meteor shower, it is practically impossible to know. Therefore, a good way to enjoy a meteor shower is to find a place where you can sit comfortably and monitor a great expanse of dark sky. And it may be satisfying to share this ex...*
+*How do stars form? To help answer this question, NASA used the James Webb Space Telescope to take the featured detailed image of the star-forming region NGC 7129 in infrared light. Star formation progresses when gravity pulls together massive amounts of gas, but soon things can g...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

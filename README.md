@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-16 15:12:33 UTC -->
-## 🔭 Today's Sky — 2026-11-15
+<!-- HEARTBEAT: 2026-11-17 15:41:16 UTC -->
+## 🔭 Today's Sky — 2026-11-16
 ### NASA Science
 
-![NASA Science](./assets/2026-11-15.png)
+![NASA Science](./assets/2026-11-16.png)
 
-*How do stars form? To help answer this question, NASA used the James Webb Space Telescope to take the featured detailed image of the star-forming region NGC 7129 in infrared light. Star formation progresses when gravity pulls together massive amounts of gas, but soon things can g...*
+*Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our Milky Way Galaxy, an ancient system of stars, gas, and dust that predates our Earth and is very far away. The arch on the right, by contrast,...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

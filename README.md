@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-17 15:41:16 UTC -->
-## 🔭 Today's Sky — 2026-11-16
+<!-- HEARTBEAT: 2026-11-18 15:20:18 UTC -->
+## 🔭 Today's Sky — 2026-11-17
 ### NASA Science
 
-![NASA Science](./assets/2026-11-16.png)
+![NASA Science](./assets/2026-11-17.png)
 
-*Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our Milky Way Galaxy, an ancient system of stars, gas, and dust that predates our Earth and is very far away. The arch on the right, by contrast,...*
+*What a flare for the chromatic! Today’s image captures a piece of the Sun’s chromosphere, the layer of the Sun’s atmosphere above its surface where the temperature rises. Why would the Sun become hotter farther away from its core? This is potentially due to energy from the swirli...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

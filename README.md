@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-18 15:20:18 UTC -->
-## 🔭 Today's Sky — 2026-11-17
+<!-- HEARTBEAT: 2026-11-19 15:27:09 UTC -->
+## 🔭 Today's Sky — 2026-11-18
 ### NASA Science
 
-![NASA Science](./assets/2026-11-17.png)
+![NASA Science](./assets/2026-11-18.png)
 
-*What a flare for the chromatic! Today’s image captures a piece of the Sun’s chromosphere, the layer of the Sun’s atmosphere above its surface where the temperature rises. Why would the Sun become hotter farther away from its core? This is potentially due to energy from the swirli...*
+*Today's image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt. The instantly recognizable shape of a dark horse's head a...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

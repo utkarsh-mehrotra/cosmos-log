@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-19 15:27:09 UTC -->
-## 🔭 Today's Sky — 2026-11-18
+<!-- HEARTBEAT: 2026-11-20 15:03:36 UTC -->
+## 🔭 Today's Sky — 2026-11-19
 ### NASA Science
 
-![NASA Science](./assets/2026-11-18.png)
+![NASA Science](./assets/2026-11-19.png)
 
-*Today's image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt. The instantly recognizable shape of a dark horse's head a...*
+*On November 17, fans of interstellar spaceflight around planet Earth were invited to shine a message into the night sky. Traced by a flashlight beam switched on and off, the dashes and dots of a Morse code message captured in this time exposure from the Emirates Astronomical Obse...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

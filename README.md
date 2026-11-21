@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-20 15:03:36 UTC -->
-## 🔭 Today's Sky — 2026-11-19
+<!-- HEARTBEAT: 2026-11-21 14:24:48 UTC -->
+## 🔭 Today's Sky — 2026-11-20
 ### NASA Science
 
-![NASA Science](./assets/2026-11-19.png)
+![NASA Science](./assets/2026-11-20.png)
 
-*On November 17, fans of interstellar spaceflight around planet Earth were invited to shine a message into the night sky. Traced by a flashlight beam switched on and off, the dashes and dots of a Morse code message captured in this time exposure from the Emirates Astronomical Obse...*
+*Cruising through the outer solar system, the Voyager 2 spacecraft made its closest approach to Neptune on August 25, 1989, the only spacecraft to visit the most distant ice giant planet. Based on the images recorded during its close encounter and in the following days, this inspi...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

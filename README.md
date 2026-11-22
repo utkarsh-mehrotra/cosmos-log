@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-21 14:24:48 UTC -->
-## 🔭 Today's Sky — 2026-11-20
+<!-- HEARTBEAT: 2026-11-22 14:17:24 UTC -->
+## 🔭 Today's Sky — 2026-11-21
 ### NASA Science
 
-![NASA Science](./assets/2026-11-20.png)
+![NASA Science](./assets/2026-11-21.png)
 
-*Cruising through the outer solar system, the Voyager 2 spacecraft made its closest approach to Neptune on August 25, 1989, the only spacecraft to visit the most distant ice giant planet. Based on the images recorded during its close encounter and in the following days, this inspi...*
+*What creates the colors in Jupiter's clouds? No one is sure. The thick atmosphere of Jupiter is mostly hydrogen and helium, elements which are colorless at the low temperatures of the Jovian cloud tops. Which trace molecules provide the colors remains a topic of research, althoug...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

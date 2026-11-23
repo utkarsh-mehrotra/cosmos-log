@@ -5,11 +5,11 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-23 17:40:31 UTC -->
-## 🔭 Today's Sky — 2026-11-22
+<!-- HEARTBEAT: 2026-11-23 17:40:46 UTC -->
+## 🔭 Today's Sky — 2026-11-23
 ### NASA Science
 
-![NASA Science](./assets/2026-11-22.png)
+![NASA Science](./assets/2026-11-23.png)
 
 *If you stare into space for a long time, what might you see? At first, you might only see the usual brightest stars, but if your eyes (or camera) could continue to collect light, you would see increasingly more. In the direction of the featured image, after only a few minutes, yo...*
 

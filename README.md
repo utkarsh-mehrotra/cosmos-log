@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-22 14:17:24 UTC -->
-## 🔭 Today's Sky — 2026-11-21
+<!-- HEARTBEAT: 2026-11-23 17:40:31 UTC -->
+## 🔭 Today's Sky — 2026-11-22
 ### NASA Science
 
-![NASA Science](./assets/2026-11-21.png)
+![NASA Science](./assets/2026-11-22.png)
 
-*What creates the colors in Jupiter's clouds? No one is sure. The thick atmosphere of Jupiter is mostly hydrogen and helium, elements which are colorless at the low temperatures of the Jovian cloud tops. Which trace molecules provide the colors remains a topic of research, althoug...*
+*If you stare into space for a long time, what might you see? At first, you might only see the usual brightest stars, but if your eyes (or camera) could continue to collect light, you would see increasingly more. In the direction of the featured image, after only a few minutes, yo...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-23 17:40:46 UTC -->
-## 🔭 Today's Sky — 2026-11-23
+<!-- HEARTBEAT: 2026-11-24 17:11:57 UTC -->
+## 🔭 Today's Sky — 2026-11-24
 ### NASA Science
 
-![NASA Science](./assets/2026-11-23.png)
+![NASA Science](./assets/2026-11-24.png)
 
-*If you stare into space for a long time, what might you see? At first, you might only see the usual brightest stars, but if your eyes (or camera) could continue to collect light, you would see increasingly more. In the direction of the featured image, after only a few minutes, yo...*
+*After this galaxy battle, only one galaxy will remain. Already visible in the featured picture are rings and faint star swirls from previous gravitational encounters. Known collectively as the NGC 7771 Group, these galaxies lie almost 200 million light-years away toward the high-...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

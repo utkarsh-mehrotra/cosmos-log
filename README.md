@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-24 17:11:57 UTC -->
-## 🔭 Today's Sky — 2026-11-24
+<!-- HEARTBEAT: 2026-11-26 16:36:13 UTC -->
+## 🔭 Today's Sky — 2026-11-25
 ### NASA Science
 
-![NASA Science](./assets/2026-11-24.png)
+![NASA Science](./assets/2026-11-25.png)
 
-*After this galaxy battle, only one galaxy will remain. Already visible in the featured picture are rings and faint star swirls from previous gravitational encounters. Known collectively as the NGC 7771 Group, these galaxies lie almost 200 million light-years away toward the high-...*
+*Beauty is in the eye of the beholder. And there is much to behold in today's featured image. The Milky Way shines bright in the sky of Brazil, over the white sand dunes and dark lagoons of Lençóis Maranhenses National Park. We can see different parts of the Milky Way as it appare...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

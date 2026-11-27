@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-26 16:36:13 UTC -->
-## 🔭 Today's Sky — 2026-11-25
+<!-- HEARTBEAT: 2026-11-27 16:21:15 UTC -->
+## 🔭 Today's Sky — 2026-11-26
 ### NASA Science
 
-![NASA Science](./assets/2026-11-25.png)
+![NASA Science](./assets/2026-11-26.png)
 
-*Beauty is in the eye of the beholder. And there is much to behold in today's featured image. The Milky Way shines bright in the sky of Brazil, over the white sand dunes and dark lagoons of Lençóis Maranhenses National Park. We can see different parts of the Milky Way as it appare...*
+*On November 24, all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was big and bright, and at its full phase. Known to some as a Beaver Moon, November's...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

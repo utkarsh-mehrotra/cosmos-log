@@ -5,13 +5,13 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-27 16:21:15 UTC -->
-## 🔭 Today's Sky — 2026-11-26
+<!-- HEARTBEAT: 2026-11-28 15:15:03 UTC -->
+## 🔭 Today's Sky — 2026-11-27
 ### NASA Science
 
-![NASA Science](./assets/2026-11-26.png)
+![NASA Science](./assets/2026-11-27.png)
 
-*On November 24, all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was big and bright, and at its full phase. Known to some as a Beaver Moon, November's...*
+*Get out your red/blue glasses and check out this stereo scene from Taurus-Littrow valley on the Moon! The color anaglyph features a detailed 3D view of Apollo 17's Lunar Rover in the foreground. Behind it lies the Lunar Module and distant lunar hills. Because the world was going ...*
 
 📂 [Full archive in /log](./log/)
 <!-- COSMOS-END -->

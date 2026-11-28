@@ -5,11 +5,11 @@ A living archive of the universe, updated every morning by a GitHub Actions cron
 ![Daily Cosmos Update](https://github.com/utkarsh-mehrotra/cosmos-log/actions/workflows/daily-cosmos.yml/badge.svg)
 
 <!-- COSMOS-START -->
-<!-- HEARTBEAT: 2026-11-28 15:15:03 UTC -->
-## 🔭 Today's Sky — 2026-11-27
+<!-- HEARTBEAT: 2026-11-28 15:15:05 UTC -->
+## 🔭 Today's Sky — 2026-11-28
 ### NASA Science
 
-![NASA Science](./assets/2026-11-27.png)
+![NASA Science](./assets/2026-11-28.png)
 
 *Get out your red/blue glasses and check out this stereo scene from Taurus-Littrow valley on the Moon! The color anaglyph features a detailed 3D view of Apollo 17's Lunar Rover in the foreground. Behind it lies the Lunar Module and distant lunar hills. Because the world was going ...*
 
